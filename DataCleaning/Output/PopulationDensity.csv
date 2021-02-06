@@ -1,0 +1,3221 @@
+,State,NAME,B01001_calc_PopDensity
+0,Alabama,Autauga County,35.853418994018895
+1,Alabama,Baldwin County,50.5415035640023
+2,Alabama,Barbour County,11.247981205618999
+3,Alabama,Bibb County,13.9731140005546
+4,Alabama,Blount County,34.5158164233531
+5,Alabama,Bullock County,6.417619549676029
+6,Alabama,Butler County,9.95277078503475
+7,Alabama,Calhoun County,73.34868800196541
+8,Alabama,Chambers County,21.892638082156402
+9,Alabama,Cherokee County,18.0333282957246
+10,Alabama,Chilton County,24.480669389437598
+11,Alabama,Choctaw County,5.526508604392429
+12,Alabama,Clarke County,7.60313165232808
+13,Alabama,Clay County,8.55233134503563
+14,Alabama,Cleburne County,10.2973539136845
+15,Alabama,Coffee County,29.1646729138119
+16,Alabama,Colbert County,35.496949981487205
+17,Alabama,Conecuh County,5.68299517064302
+18,Alabama,Coosa County,6.43888528179168
+19,Alabama,Covington County,13.993703459115698
+20,Alabama,Crenshaw County,8.79227330633629
+21,Alabama,Cullman County,43.252675634723
+22,Alabama,Dale County,33.893125488288
+23,Alabama,Dallas County,15.7910333786488
+24,Alabama,DeKalb County,35.3757798349071
+25,Alabama,Elmore County,50.7014402097701
+26,Alabama,Escambia County,15.247648981167
+27,Alabama,Etowah County,74.2505481228132
+28,Alabama,Fayette County,10.201801349626
+29,Alabama,Franklin County,19.2113561545785
+30,Alabama,Geneva County,17.8043158513833
+31,Alabama,Greene County,5.02810013073651
+32,Alabama,Hale County,8.92555700068266
+33,Alabama,Henry County,11.769665736290099
+34,Alabama,Houston County,69.4820926648789
+35,Alabama,Jackson County,18.6584828351285
+36,Alabama,Jefferson County,229.251338127605
+37,Alabama,Lamar County,8.89409702789082
+38,Alabama,Lauderdale County,53.51282236206411
+39,Alabama,Lawrence County,18.543050461000103
+40,Alabama,Lee County,101.227864438246
+41,Alabama,Limestone County,64.1614968844402
+42,Alabama,Lowndes County,5.520435979311411
+43,Alabama,Macon County,12.083540551351499
+44,Alabama,Madison County,172.227500046414
+45,Alabama,Marengo County,7.72210160787143
+46,Alabama,Marion County,15.585206727323401
+47,Alabama,Marshall County,64.921822989232
+48,Alabama,Mobile County,130.229928949949
+49,Alabama,Monroe County,8.09796562551444
+50,Alabama,Montgomery County,111.57821728586201
+51,Alabama,Morgan County,79.3822306638455
+52,Alabama,Perry County,5.08932713103056
+53,Alabama,Pickens County,8.891346444157929
+54,Alabama,Pike County,19.189985137473396
+55,Alabama,Randolph County,15.013142302193
+56,Alabama,Russell County,35.05587425982
+57,Alabama,St. Clair County,53.3705840032232
+58,Alabama,Shelby County,103.85903884562201
+59,Alabama,Sumter County,5.547014404079901
+60,Alabama,Talladega County,42.219157364741
+61,Alabama,Tallapoosa County,21.8969584604702
+62,Alabama,Tuscaloosa County,60.2784113409828
+63,Alabama,Walker County,31.480176797023002
+64,Alabama,Washington County,5.94877180648605
+65,Alabama,Wilcox County,4.69736954024345
+66,Alabama,Winston County,15.038338282957001
+67,Alaska,Aleutians East Borough,0.18931798413723
+68,Alaska,Aleutians West Census Area,0.505471803211635
+69,Alaska,Anchorage Municipality,67.0002918813575
+70,Alaska,Bethel Census Area,0.17143592866634302
+71,Alaska,Bristol Bay Borough,0.7129559284570509
+72,Alaska,Denali Borough,0.0681951983542993
+73,Alaska,Dillingham Census Area,0.104785321760152
+74,Alaska,Fairbanks North Star Borough,5.24949098254823
+75,Alaska,Haines Borough,0.41554489396997707
+76,Alaska,Hoonah-Angoon Census Area,0.125547899224925
+77,Alaska,Juneau City and Borough,4.61661018835993
+78,Alaska,Kenai Peninsula Borough,1.40288530686126
+79,Alaska,Ketchikan Gateway Borough,1.0973632644438
+80,Alaska,Kodiak Island Borough,0.796616253836105
+81,Alaska,Kusilvak Census Area,0.185386083250832
+82,Alaska,Lake and Peninsula Borough,0.0222154125511112
+83,Alaska,Matanuska-Susitna Borough,1.61641230138181
+84,Alaska,Nome Census Area,0.166814790483156
+85,Alaska,North Slope Borough,0.0425856311115024
+86,Alaska,Northwest Arctic Borough,0.0837655920658693
+87,Alaska,Petersburg Borough,0.4332745375348879
+88,Alaska,Prince of Wales-Hyder Census Area,0.47496369974008396
+89,Alaska,Sitka City and Borough,1.17552014159081
+90,Alaska,Skagway Municipality,0.944050024664486
+91,Alaska,Southeast Fairbanks Census Area,0.10695172696900601
+92,Alaska,Valdez-Cordova Census Area,0.104936772956997
+93,Alaska,Wrangell City and Borough,0.375226755408205
+94,Alaska,Yakutat City and Borough,0.0348963251396459
+95,Alaska,Yukon-Koyukuk Census Area,0.0143620751775343
+96,Arizona,Apache County,2.4661635471983
+97,Arizona,Cochise County,7.9091600308276
+98,Arizona,Coconino County,2.9077305777695
+99,Arizona,Gila County,4.333306677519359
+100,Arizona,Graham County,3.1637710779532795
+101,Arizona,Greenlee County,1.99216003069318
+102,Arizona,La Paz County,1.77630223819669
+103,Arizona,Maricopa County,178.541173990963
+104,Arizona,Mohave County,5.977113496152559
+105,Arizona,Navajo County,4.21826164424761
+106,Arizona,Pima County,42.85483110264771
+107,Arizona,Pinal County,30.201278066573302
+108,Arizona,Santa Cruz County,14.541081120016802
+109,Arizona,Yavapai County,10.677147061634
+110,Arizona,Yuma County,14.5527021726827
+111,Arkansas,Arkansas County,7.077235453549861
+112,Arkansas,Ashley County,8.568999576947531
+113,Arkansas,Baxter County,28.7152710674774
+114,Arkansas,Benton County,117.977455778265
+115,Arkansas,Boone County,24.4020453612755
+116,Arkansas,Bradley County,6.51079736886142
+117,Arkansas,Calhoun County,3.19537992240791
+118,Arkansas,Carroll County,17.0918030867579
+119,Arkansas,Chicot County,6.487205339617879
+120,Arkansas,Clark County,9.979357948848449
+121,Arkansas,Clay County,9.09362902300879
+122,Arkansas,Cleburne County,17.592079496084498
+123,Arkansas,Cleveland County,5.31308376264506
+124,Arkansas,Columbia County,12.0430090148183
+125,Arkansas,Conway County,14.616170313729802
+126,Arkansas,Craighead County,57.701239773157994
+127,Arkansas,Crawford County,40.7996871120115
+128,Arkansas,Crittenden County,31.006068060158402
+129,Arkansas,Cross County,10.647561881309802
+130,Arkansas,Dallas County,4.2996258215917
+131,Arkansas,Desha County,5.97498329534256
+132,Arkansas,Drew County,8.62389556526047
+133,Arkansas,Faulkner County,72.9467914658334
+134,Arkansas,Franklin County,11.275184564244402
+135,Arkansas,Fulton County,7.58160811844068
+136,Arkansas,Garland County,55.9998517852055
+137,Arkansas,Grant County,11.0524158192483
+138,Arkansas,Greene County,29.824105409155802
+139,Arkansas,Hempstead County,11.6851730245058
+140,Arkansas,Hot Spring County,21.0370307484283
+141,Arkansas,Howard County,8.78324092031978
+142,Arkansas,Independence County,18.8332181709132
+143,Arkansas,Izard County,9.017189388526841
+144,Arkansas,Jackson County,10.4911935334858
+145,Arkansas,Jefferson County,31.254514799296302
+146,Arkansas,Johnson County,15.382920361719101
+147,Arkansas,Lafayette County,5.053796893232191
+148,Arkansas,Lawrence County,10.9528948256261
+149,Arkansas,Lee County,6.021341533442861
+150,Arkansas,Lincoln County,9.41600591939292
+151,Arkansas,Little River County,9.0075425884187
+152,Arkansas,Logan County,11.8629638442172
+153,Arkansas,Lonoke County,36.1639717692876
+154,Arkansas,Madison County,7.44015438511027
+155,Arkansas,Marion County,10.6318471099612
+156,Arkansas,Miller County,27.001252709047698
+157,Arkansas,Mississippi County,18.3628578105964
+158,Arkansas,Monroe County,4.60991267149704
+159,Arkansas,Montgomery County,4.4523690132666704
+160,Arkansas,Nevada County,5.27436382601417
+161,Arkansas,Newton County,3.6911892541488904
+162,Arkansas,Ouachita County,12.7014153173494
+163,Arkansas,Perry County,7.22554351013243
+164,Arkansas,Phillips County,10.564647735084
+165,Arkansas,Pike County,6.947737181494171
+166,Arkansas,Poinsett County,12.2465242873351
+167,Arkansas,Polk County,9.07677870323286
+168,Arkansas,Pope County,30.2430486280974
+169,Arkansas,Prairie County,4.91293433526316
+170,Arkansas,Pulaski County,200.176589143304
+171,Arkansas,Randolph County,10.4205924256624
+172,Arkansas,St. Francis County,15.992627689366
+173,Arkansas,Saline County,62.9724850422285
+174,Arkansas,Scott County,4.518266116494161
+175,Arkansas,Searcy County,4.592572330924571
+176,Arkansas,Sebastian County,92.52384260867208
+177,Arkansas,Sevier County,11.7464133536446
+178,Arkansas,Sharp County,10.8868904747869
+179,Arkansas,Stone County,7.92446396870105
+180,Arkansas,Union County,14.7617220923788
+181,Arkansas,Van Buren County,9.07626814122767
+182,Arkansas,Washington County,93.666958051026
+183,Arkansas,White County,29.3951316053397
+184,Arkansas,Woodruff County,4.38237679654509
+185,Arkansas,Yell County,8.954998446679491
+186,California,Alameda County,860.7570749498891
+187,California,Alpine County,0.5992806655328691
+188,California,Amador County,24.565345262291103
+189,California,Butte County,53.5751590644998
+190,California,Calaveras County,17.122605806613098
+191,California,Colusa County,7.20188011858262
+192,California,Contra Costa County,610.18029042211
+193,California,Del Norte County,10.522931110137698
+194,California,El Dorado County,42.1995800073241
+195,California,Fresno County,63.385677357634
+196,California,Glenn County,8.197380558880461
+197,California,Humboldt County,14.691077966102
+198,California,Imperial County,16.6599907311579
+199,California,Inyo County,0.6858560107034459
+200,California,Kern County,41.9254523115261
+201,California,Kings County,41.6772679528691
+202,California,Lake County,19.7113764136146
+203,California,Lassen County,2.6514214612838902
+204,California,Los Angeles County,960.7427779314571
+205,California,Madera County,28.007897706430697
+206,California,Marin County,193.100506119398
+207,California,Mariposa County,4.67425188076992
+208,California,Mendocino County,9.62646104875624
+209,California,Merced County,53.672221756811396
+210,California,Modoc County,0.8813761089710279
+211,California,Mono County,1.79489551715331
+212,California,Monterey County,50.96841445171
+213,California,Napa County,72.5086277243729
+214,California,Nevada County,39.9469911989279
+215,California,Orange County,1541.02666980495
+216,California,Placer County,104.29283136802499
+217,California,Plumas County,2.8278684641424303
+218,California,Riverside County,127.688110556421
+219,California,Sacramento County,603.890619071814
+220,California,San Benito County,16.5200880730115
+221,California,San Bernardino County,41.10128555431071
+222,California,San Diego County,302.994150305114
+223,California,San Francisco County,7168.19047136798
+224,California,San Joaquin County,203.03898182600702
+225,California,San Luis Obispo County,32.9240586038183
+226,California,San Mateo County,659.174654397823
+227,California,Santa Barbara County,62.6396741228866
+228,California,Santa Clara County,574.838369914046
+229,California,Santa Cruz County,237.4646580113
+230,California,Shasta County,18.3146641718097
+231,California,Sierra County,1.18686208307387
+232,California,Siskiyou County,2.67741844120691
+233,California,Solano County,206.04440569535598
+234,California,Sonoma County,122.826924488507
+235,California,Stanislaus County,139.18656267573098
+236,California,Sutter County,61.434887291893
+237,California,Tehama County,8.296818814178609
+238,California,Trinity County,1.5620094649891898
+239,California,Tulare County,36.8526563166655
+240,California,Tuolumne County,9.37608758713074
+241,California,Ventura County,177.72791934857398
+242,California,Yolo County,81.7980055842152
+243,California,Yuba County,46.119104087607
+244,Colorado,Adams County,164.575308235169
+245,Colorado,Alamosa County,8.78669511017409
+246,Colorado,Arapahoe County,308.071715415546
+247,Colorado,Archuleta County,3.69147125917798
+248,Colorado,Baca County,0.5384289458122221
+249,Colorado,Bent County,1.4825476627844099
+250,Colorado,Boulder County,170.643529909384
+251,Colorado,Broomfield County,773.525167574892
+252,Colorado,Chaffee County,7.30136222312035
+253,Colorado,Cheyenne County,0.44271094894187607
+254,Colorado,Clear Creek County,9.16310080562258
+255,Colorado,Conejos County,2.44178525659461
+256,Colorado,Costilla County,1.15963368911054
+257,Colorado,Crowley County,2.76057813517921
+258,Colorado,Custer County,2.42546915025166
+259,Colorado,Delta County,10.2586286729205
+260,Colorado,Denver County,1746.53366714867
+261,Colorado,Dolores County,0.666073672479796
+262,Colorado,Douglas County,151.000972693866
+263,Colorado,Eagle County,12.459310342018199
+264,Colorado,Elbert County,5.24903393675943
+265,Colorado,El Paso County,124.925568993339
+266,Colorado,Fremont County,11.837313764195098
+267,Colorado,Garfield County,7.6679579582708
+268,Colorado,Gilpin County,15.259035495942399
+269,Colorado,Grand County,3.1503929927062897
+270,Colorado,Gunnison County,1.9711924633817601
+271,Colorado,Hinsdale County,0.303426738221774
+272,Colorado,Huerfano County,1.5975222719315
+273,Colorado,Jackson County,0.310082693508281
+274,Colorado,Jefferson County,288.16701639674596
+275,Colorado,Kiowa County,0.316472036724453
+276,Colorado,Kit Carson County,1.3642450232956698
+277,Colorado,Lake County,7.76979788292112
+278,Colorado,La Plata County,12.590134320432599
+279,Colorado,Larimer County,50.2990608716236
+280,Colorado,Las Animas County,1.1469963675731698
+281,Colorado,Lincoln County,0.83101679674741
+282,Colorado,Logan County,4.55464865144205
+283,Colorado,Mesa County,17.397326852189998
+284,Colorado,Mineral County,0.362841330466255
+285,Colorado,Moffat County,1.06308992422275
+286,Colorado,Montezuma County,4.9294729682068095
+287,Colorado,Montrose County,7.11023991899686
+288,Colorado,Morgan County,8.520276893385919
+289,Colorado,Otero County,5.606676984737071
+290,Colorado,Ouray County,3.3663183939861
+291,Colorado,Park County,3.0607963229972297
+292,Colorado,Phillips County,2.4234941197925295
+293,Colorado,Pitkin County,7.123409994350821
+294,Colorado,Prowers County,2.8401561459594302
+295,Colorado,Pueblo County,26.6484169021727
+296,Colorado,Rio Blanco County,0.7749684549420061
+297,Colorado,Rio Grande County,4.805762482042541
+298,Colorado,Routt County,4.06597174669611
+299,Colorado,Saguache County,0.788151149688548
+300,Colorado,San Juan County,0.542015887968249
+301,Colorado,San Miguel County,2.39092161374022
+302,Colorado,Sedgwick County,1.6556068255892802
+303,Colorado,Summit County,19.3127569068634
+304,Colorado,Teller County,16.713403883822902
+305,Colorado,Washington County,0.7421256332653481
+306,Colorado,Weld County,28.5867637840316
+307,Colorado,Yuma County,1.6442503094047498
+308,Connecticut,Fairfield County,583.416530368637
+309,Connecticut,Hartford County,470.033815038414
+310,Connecticut,Litchfield County,76.7709821644689
+311,Connecticut,Middlesex County,170.798815273811
+312,Connecticut,New Haven County,548.856987196354
+313,Connecticut,New London County,156.079636094414
+314,Connecticut,Tolland County,142.329636078855
+315,Connecticut,Windham County,87.722911731784
+316,Delaware,Kent County,115.22429310426399
+317,Delaware,New Castle County,502.769618629628
+318,Delaware,Sussex County,90.54899836674869
+319,District of Columbia,District of Columbia,4322.95256868476
+320,Florida,Alachua County,116.11221044693998
+321,Florida,Baker County,18.3309927280302
+322,Florida,Bay County,92.8857425187264
+323,Florida,Bradford County,35.435175284496495
+324,Florida,Brevard County,219.376463402181
+325,Florida,Broward County,612.6877167923819
+326,Florida,Calhoun County,9.82992818888334
+327,Florida,Charlotte County,100.3107252744
+328,Florida,Citrus County,94.9392779360695
+329,Florida,Clay County,132.338017071032
+330,Florida,Collier County,70.38522842473441
+331,Florida,Columbia County,33.454425573403505
+332,Florida,DeSoto County,22.073008961939397
+333,Florida,Dixie County,9.00059326213749
+334,Florida,Duval County,467.72869855113703
+335,Florida,Escambia County,183.081899788008
+336,Florida,Flagler County,85.26646661771
+337,Florida,Franklin County,8.31215404368312
+338,Florida,Gadsden County,34.4130956542606
+339,Florida,Gilchrist County,19.448926186859
+340,Florida,Glades County,6.39644347212249
+341,Florida,Gulf County,11.201001248815698
+342,Florida,Hamilton County,10.723011853297301
+343,Florida,Hardee County,16.4885295462253
+344,Florida,Hendry County,13.399699997857802
+345,Florida,Hernando County,149.20230442753402
+346,Florida,Highlands County,38.7514063752471
+347,Florida,Hillsborough County,521.006609769935
+348,Florida,Holmes County,15.6664122190294
+349,Florida,Indian River County,115.94498388705401
+350,Florida,Jackson County,20.3829482396152
+351,Florida,Jefferson County,9.105798596044801
+352,Florida,Lafayette County,6.21318745940191
+353,Florida,Lake County,136.198886060663
+354,Florida,Lee County,354.83076867816004
+355,Florida,Leon County,166.813926365297
+356,Florida,Levy County,13.7976823582596
+357,Florida,Liberty County,3.86534980170615
+358,Florida,Madison County,10.2405680669381
+359,Florida,Manatee County,194.239008473812
+360,Florida,Marion County,84.6803073111943
+361,Florida,Martin County,111.88677417727
+362,Florida,Miami-Dade County,552.18707080322
+363,Florida,Monroe County,29.978068080741302
+364,Florida,Nassau County,47.9609640013056
+365,Florida,Okaloosa County,83.31780277458421
+366,Florida,Okeechobee County,20.3743403689294
+367,Florida,Orange County,565.200717904169
+368,Florida,Osceola County,98.4713680128207
+369,Florida,Palm Beach County,284.088504026507
+370,Florida,Pasco County,264.027551864764
+371,Florida,Pinellas County,1351.00989532327
+372,Florida,Polk County,143.657352265679
+373,Florida,Putnam County,38.5992312765178
+374,Florida,St. Johns County,151.366952953632
+375,Florida,St. Lucie County,206.388959617123
+376,Florida,Santa Rosa County,65.0033215643945
+377,Florida,Sarasota County,285.758092060701
+378,Florida,Seminole County,567.903065071748
+379,Florida,Sumter County,83.85731716468008
+380,Florida,Suwannee County,24.6301590185062
+381,Florida,Taylor County,8.177839654650981
+382,Florida,Union County,24.1579476962471
+383,Florida,Volusia County,184.99151478862302
+384,Florida,Wakulla County,20.2958573030993
+385,Florida,Walton County,24.5031144322366
+386,Florida,Washington County,16.2226218764404
+387,Georgia,Appling County,14.0182875557395
+388,Georgia,Atkinson County,9.31124089772971
+389,Georgia,Bacon County,15.260077681977197
+390,Georgia,Baker County,3.6006826745310403
+391,Georgia,Baldwin County,67.5882661922328
+392,Georgia,Banks County,30.7975218952869
+393,Georgia,Barrow County,184.344920218884
+394,Georgia,Bartow County,87.0643139398608
+395,Georgia,Ben Hill County,26.4798479280579
+396,Georgia,Berrien County,16.2019706578266
+397,Georgia,Bibb County,237.623066850275
+398,Georgia,Bleckley County,22.849190332188698
+399,Georgia,Brantley County,16.1766057739402
+400,Georgia,Brooks County,12.232317150799402
+401,Georgia,Bryan County,31.6655471305199
+402,Georgia,Bulloch County,42.7156701559742
+403,Georgia,Burke County,10.527492691654698
+404,Georgia,Butts County,49.920675416186704
+405,Georgia,Calhoun County,8.85165962738022
+406,Georgia,Camden County,32.2908812569128
+407,Georgia,Candler County,17.198799268696302
+408,Georgia,Carroll County,89.7672468336575
+409,Georgia,Catoosa County,157.855196006551
+410,Georgia,Charlton County,6.4259054877405095
+411,Georgia,Chatham County,255.886183169301
+412,Georgia,Chattahoochee County,16.7130724648367
+413,Georgia,Chattooga County,30.5811718001163
+414,Georgia,Cherokee County,221.81370881359402
+415,Georgia,Clarke County,403.537333348598
+416,Georgia,Clay County,5.929729840263651
+417,Georgia,Clayton County,759.45246482218
+418,Georgia,Clinch County,3.1944792515929104
+419,Georgia,Cobb County,846.6897774382311
+420,Georgia,Coffee County,28.0050693992946
+421,Georgia,Colquitt County,32.1897996301434
+422,Georgia,Columbia County,196.055278614709
+423,Georgia,Cook County,29.064454139605605
+424,Georgia,Coweta County,123.042865187318
+425,Georgia,Crawford County,14.668660072291901
+426,Georgia,Crisp County,32.3511107884024
+427,Georgia,Dade County,36.0115590913012
+428,Georgia,Dawson County,43.6980839621772
+429,Georgia,Decatur County,17.348909959220002
+430,Georgia,DeKalb County,1071.7920829819
+431,Georgia,Dodge County,16.285499626474
+432,Georgia,Dooly County,13.6737975647166
+433,Georgia,Dougherty County,106.967538551712
+434,Georgia,Douglas County,273.692076766622
+435,Georgia,Early County,7.79436025159484
+436,Georgia,Echols County,3.66809197234582
+437,Georgia,Effingham County,47.3273150187712
+438,Georgia,Elbert County,21.127442362084
+439,Georgia,Emanuel County,12.7641427625123
+440,Georgia,Evans County,22.6453774279428
+441,Georgia,Fannin County,24.8652643850687
+442,Georgia,Fayette County,221.22478618165297
+443,Georgia,Floyd County,73.3273790003088
+444,Georgia,Forsyth County,378.06996339422005
+445,Georgia,Franklin County,33.2339917840713
+446,Georgia,Fulton County,749.058521812008
+447,Georgia,Gilmer County,27.1060380844981
+448,Georgia,Glascock County,8.08220814930149
+449,Georgia,Glynn County,77.27916697184521
+450,Georgia,Gordon County,61.6211808728284
+451,Georgia,Grady County,21.1748315418802
+452,Georgia,Greene County,16.9081669198182
+453,Georgia,Gwinnett County,809.1434093042301
+454,Georgia,Habersham County,61.77157866610539
+455,Georgia,Hall County,192.52935277305698
+456,Georgia,Hancock County,6.995568868160911
+457,Georgia,Haralson County,39.6220831044731
+458,Georgia,Harris County,27.9599960296639
+459,Georgia,Hart County,42.5786685588378
+460,Georgia,Heard County,15.231386359534199
+461,Georgia,Henry County,268.154557420516
+462,Georgia,Houston County,155.733710394501
+463,Georgia,Irwin County,10.098113050665901
+464,Georgia,Jackson County,74.74438403913
+465,Georgia,Jasper County,14.446027294965802
+466,Georgia,Jeff Davis County,17.4909177350825
+467,Georgia,Jefferson County,11.565079652033301
+468,Georgia,Jenkins County,9.812495123905821
+469,Georgia,Johnson County,12.3978226217626
+470,Georgia,Jones County,27.980103507957
+471,Georgia,Lamar County,38.9530507356868
+472,Georgia,Lanier County,20.364370691134898
+473,Georgia,Laurens County,22.678385499422102
+474,Georgia,Lee County,31.8400917253285
+475,Georgia,Liberty County,46.4305982337152
+476,Georgia,Lincoln County,14.3131175098983
+477,Georgia,Long County,17.5079687631685
+478,Georgia,Lowndes County,88.98728352131991
+479,Georgia,Lumpkin County,43.6002753447929
+480,Georgia,McDuffie County,32.2381968767698
+481,Georgia,McIntosh County,12.638723370644
+482,Georgia,Macon County,12.990142518043301
+483,Georgia,Madison County,39.5226853225484
+484,Georgia,Marion County,8.94956109960987
+485,Georgia,Meriwether County,16.2637569502872
+486,Georgia,Miller County,7.97843486474542
+487,Georgia,Mitchell County,16.9108827335968
+488,Georgia,Monroe County,26.3288092260678
+489,Georgia,Montgomery County,14.4677144370338
+490,Georgia,Morgan County,20.2662264192495
+491,Georgia,Murray County,44.33472498813789
+492,Georgia,Muscogee County,350.83935993335996
+493,Georgia,Newton County,150.205820987053
+494,Georgia,Oconee County,77.5367108320662
+495,Georgia,Oglethorpe County,13.000736081380902
+496,Georgia,Paulding County,192.672920342044
+497,Georgia,Peach County,69.2877925634388
+498,Georgia,Pickens County,51.298781594039795
+499,Georgia,Pierce County,21.7338300364069
+500,Georgia,Pike County,32.3089279847486
+501,Georgia,Polk County,51.783386822013995
+502,Georgia,Pulaski County,17.4957879800467
+503,Georgia,Putnam County,24.0870117181559
+504,Georgia,Quitman County,5.81052366867161
+505,Georgia,Rabun County,17.1666898234954
+506,Georgia,Randolph County,6.389714552850701
+507,Georgia,Richmond County,239.84361524362598
+508,Georgia,Rockdale County,264.746008548895
+509,Georgia,Schley County,12.0544856644984
+510,Georgia,Screven County,8.36452157406791
+511,Georgia,Seminole County,13.7139019080113
+512,Georgia,Spalding County,127.501094158326
+513,Georgia,Stephens County,55.3365768406495
+514,Georgia,Stewart County,5.08520343786853
+515,Georgia,Sumter County,24.2693664142709
+516,Georgia,Talbot County,6.29203325212707
+517,Georgia,Taliaferro County,3.3033680027129
+518,Georgia,Tattnall County,20.3586474670844
+519,Georgia,Taylor County,8.39780335235246
+520,Georgia,Telfair County,14.2280591829732
+521,Georgia,Terrell County,10.187914747764
+522,Georgia,Thomas County,31.7114458016362
+523,Georgia,Tift County,59.9498072865275
+524,Georgia,Toombs County,28.689712569980504
+525,Georgia,Towns County,26.481009055173697
+526,Georgia,Treutlen County,13.120260255162899
+527,Georgia,Troup County,65.0710264419763
+528,Georgia,Turner County,10.770780947525802
+529,Georgia,Twiggs County,8.90295789330266
+530,Georgia,Union County,27.301693516796398
+531,Georgia,Upson County,31.292416115964304
+532,Georgia,Walker County,59.528851885334205
+533,Georgia,Walton County,106.491044834715
+534,Georgia,Ware County,15.286108439338902
+535,Georgia,Warren County,7.25881737107015
+536,Georgia,Washington County,11.643152769291401
+537,Georgia,Wayne County,17.9037743492414
+538,Georgia,Webster County,4.8189795426296
+539,Georgia,Wheeler County,10.373514697162
+540,Georgia,White County,46.3944843552893
+541,Georgia,Whitfield County,138.054912277575
+542,Georgia,Wilcox County,9.04013343016203
+543,Georgia,Wilkes County,8.12828005530707
+544,Georgia,Wilkinson County,7.80258967487176
+545,Georgia,Worth County,13.9743409343339
+546,Hawaii,Hawaii County,18.9443032718452
+547,Hawaii,Honolulu County,634.951785126835
+548,Hawaii,Kalawao County,2.4148676251673398
+549,Hawaii,Kauai County,44.4580138369705
+550,Hawaii,Maui County,54.940769033721196
+551,Idaho,Ada County,163.70753728399998
+552,Idaho,Adams County,1.13864015268626
+553,Idaho,Bannock County,29.5228912014428
+554,Idaho,Bear Lake County,2.35920437177174
+555,Idaho,Benewah County,4.51535940799831
+556,Idaho,Bingham County,8.399768946773161
+557,Idaho,Blaine County,3.2193989720453198
+558,Idaho,Boise County,1.45594566535497
+559,Idaho,Bonner County,9.51459656421995
+560,Idaho,Bonneville County,23.2567733570853
+561,Idaho,Boundary County,3.51474434109841
+562,Idaho,Butte County,0.449203570399456
+563,Idaho,Camas County,0.318446854840014
+564,Idaho,Canyon County,139.584871920623
+565,Idaho,Caribou County,1.5140370965320602
+566,Idaho,Cassia County,3.55385559289911
+567,Idaho,Clark County,0.23584675943129801
+568,Idaho,Clearwater County,1.3575487785258897
+569,Idaho,Custer County,0.3248256173026369
+570,Idaho,Elmore County,3.31888684072303
+571,Idaho,Franklin County,7.73288722379344
+572,Idaho,Fremont County,2.6855810457041502
+573,Idaho,Gem County,11.7616501189543
+574,Idaho,Gooding County,8.03046003838446
+575,Idaho,Idaho County,0.744058926767492
+576,Idaho,Jefferson County,9.87390716241396
+577,Idaho,Jerome County,15.141743827856299
+578,Idaho,Kootenai County,47.9142107312898
+579,Idaho,Latah County,14.0819088304005
+580,Idaho,Lemhi County,0.659734273004483
+581,Idaho,Lewis County,3.1004515049236
+582,Idaho,Lincoln County,1.71009803602199
+583,Idaho,Madison County,31.8455797839537
+584,Idaho,Minidoka County,10.514582258192
+585,Idaho,Nez Perce County,18.276033065569802
+586,Idaho,Oneida County,1.39311591006602
+587,Idaho,Owyhee County,0.576771201812182
+588,Idaho,Payette County,21.8637227697716
+589,Idaho,Power County,2.12134991040186
+590,Idaho,Shoshone County,1.83372653814181
+591,Idaho,Teton County,9.525938817594561
+592,Idaho,Twin Falls County,16.809806544667097
+593,Idaho,Valley County,1.0956947502358299
+594,Idaho,Washington County,2.66418957752018
+595,Illinois,Adams County,29.992259037990998
+596,Illinois,Alexander County,10.708250297672
+597,Illinois,Bond County,16.965234766201803
+598,Illinois,Boone County,73.7185219480631
+599,Illinois,Brown County,8.43117635603494
+600,Illinois,Bureau County,14.829958979958501
+601,Illinois,Calhoun County,7.38968423293635
+602,Illinois,Carroll County,12.6334193121584
+603,Illinois,Cass County,13.0138879156302
+604,Illinois,Champaign County,81.1842559295884
+605,Illinois,Christian County,18.084151465094603
+606,Illinois,Clark County,12.1937788018156
+607,Illinois,Clay County,10.997548482527199
+608,Illinois,Clinton County,30.650070939706502
+609,Illinois,Coles County,39.299357270087
+610,Illinois,Cook County,2134.42072675723
+611,Illinois,Crawford County,16.613374634326597
+612,Illinois,Cumberland County,12.127076045895901
+613,Illinois,DeKalb County,63.72410485152229
+614,Illinois,De Witt County,15.579980114421199
+615,Illinois,Douglas County,18.2679699564377
+616,Illinois,DuPage County,1097.70680051702
+617,Illinois,Edgar County,10.863029961617201
+618,Illinois,Edwards County,11.295659363492598
+619,Illinois,Effingham County,27.560336867092598
+620,Illinois,Fayette County,11.706532832048
+621,Illinois,Ford County,10.6528625244633
+622,Illinois,Franklin County,36.943680045731
+623,Illinois,Fulton County,15.796395242446499
+624,Illinois,Gallatin County,6.16467697662848
+625,Illinois,Greene County,9.398361553013618
+626,Illinois,Grundy County,46.644806962227
+627,Illinois,Hamilton County,7.30303389348068
+628,Illinois,Hancock County,8.8105296870163
+629,Illinois,Hardin County,8.72183743656334
+630,Illinois,Henderson County,7.01690704691921
+631,Illinois,Henry County,23.2055542691182
+632,Illinois,Iroquois County,9.733358959133108
+633,Illinois,Jackson County,38.7052838172043
+634,Illinois,Jasper County,7.492328536273839
+635,Illinois,Jefferson County,25.799993680897604
+636,Illinois,Jersey County,23.073979372567102
+637,Illinois,Jo Daviess County,14.029076058801
+638,Illinois,Johnson County,14.147427456354599
+639,Illinois,Kane County,394.636502174836
+640,Illinois,Kankakee County,63.3866019091016
+641,Illinois,Kendall County,150.24810576544598
+642,Illinois,Knox County,27.4842876292983
+643,Illinois,Lake County,611.94739324599
+644,Illinois,LaSalle County,37.5498747058932
+645,Illinois,Lawrence County,16.7946684109801
+646,Illinois,Lee County,18.3914861112112
+647,Illinois,Livingston County,13.4384974362298
+648,Illinois,Logan County,18.2453036402897
+649,Illinois,McDonough County,20.225230949341103
+650,Illinois,McHenry County,196.944784398385
+651,Illinois,McLean County,56.523291223748394
+652,Illinois,Macon County,70.83402700186029
+653,Illinois,Macoupin County,20.456367413515302
+654,Illinois,Madison County,143.252360427733
+655,Illinois,Marion County,25.6865926944956
+656,Illinois,Marshall County,11.7720236213709
+657,Illinois,Mason County,9.86400599177725
+658,Illinois,Massac County,23.486664369628603
+659,Illinois,Menard County,15.1855196218911
+660,Illinois,Mercer County,10.796714933846399
+661,Illinois,Monroe County,34.007125494887
+662,Illinois,Montgomery County,15.917583350519301
+663,Illinois,Morgan County,23.3684917153687
+664,Illinois,Moultrie County,16.8975955304236
+665,Illinois,Ogle County,26.124548104116897
+666,Illinois,Peoria County,115.12010125191799
+667,Illinois,Perry County,18.689727938051103
+668,Illinois,Piatt County,14.442594492503199
+669,Illinois,Pike County,7.316126072922269
+670,Illinois,Pope County,4.44870380408097
+671,Illinois,Pulaski County,10.876403096463699
+672,Illinois,Putnam County,13.857164372232
+673,Illinois,Randolph County,21.842067360950498
+674,Illinois,Richland County,17.029877296726198
+675,Illinois,Rock Island County,131.237789380647
+676,Illinois,St. Clair County,154.658989300115
+677,Illinois,Saline County,24.627372211606
+678,Illinois,Sangamon County,87.89318765884751
+679,Illinois,Schuyler County,6.23746272420665
+680,Illinois,Scott County,7.76627348400422
+681,Illinois,Shelby County,11.113016671540699
+682,Illinois,Stark County,7.3728071363025
+683,Illinois,Stephenson County,31.0712553084227
+684,Illinois,Tazewell County,79.9487732470222
+685,Illinois,Union County,15.9937451616224
+686,Illinois,Vermilion County,33.7008241863712
+687,Illinois,Wabash County,20.0133439009369
+688,Illinois,Warren County,12.3424277458846
+689,Illinois,Washington County,9.71477017487838
+690,Illinois,Wayne County,8.91696104446628
+691,Illinois,White County,10.944275935802901
+692,Illinois,Whiteside County,31.823334057702198
+693,Illinois,Will County,318.115481553711
+694,Illinois,Williamson County,61.8407442097412
+695,Illinois,Winnebago County,215.292372803479
+696,Illinois,Woodford County,28.3968766382412
+697,Indiana,Adams County,40.0817935078245
+698,Indiana,Allen County,217.343035466382
+699,Indiana,Bartholomew County,77.70463935884709
+700,Indiana,Benton County,8.23376832419108
+701,Indiana,Blackford County,28.3679848498261
+702,Indiana,Boone County,58.7225711654915
+703,Indiana,Brown County,18.6054257465812
+704,Indiana,Carroll County,20.739488547989303
+705,Indiana,Cass County,35.676653381075894
+706,Indiana,Clark County,119.815757947664
+707,Indiana,Clay County,28.360992340368398
+708,Indiana,Clinton County,30.7886840105202
+709,Indiana,Crawford County,13.3677004729411
+710,Indiana,Daviess County,29.6096348696466
+711,Indiana,Dearborn County,62.6477787741583
+712,Indiana,Decatur County,27.5165631273764
+713,Indiana,DeKalb County,45.44274523284571
+714,Indiana,Delaware County,113.846581852486
+715,Indiana,Dubois County,38.3311164683004
+716,Indiana,Elkhart County,169.726019204145
+717,Indiana,Fayette County,41.765011771245604
+718,Indiana,Floyd County,200.426784398873
+719,Indiana,Fountain County,16.087524125236
+720,Indiana,Franklin County,22.941316860713897
+721,Indiana,Fulton County,21.183333099407
+722,Indiana,Gibson County,26.6123794404594
+723,Indiana,Grant County,62.42078621430671
+724,Indiana,Greene County,22.986028228687502
+725,Indiana,Hamilton County,309.500404319081
+726,Indiana,Hancock County,93.170275197192
+727,Indiana,Harrison County,31.645815922652698
+728,Indiana,Hendricks County,152.716323851747
+729,Indiana,Henry County,47.768590538743894
+730,Indiana,Howard County,108.56580212311701
+731,Indiana,Huntington County,36.70626237926339
+732,Indiana,Jackson County,33.265517850005196
+733,Indiana,Jasper County,23.077488379514605
+734,Indiana,Jay County,21.113131650001602
+735,Indiana,Jefferson County,34.5137346784585
+736,Indiana,Jennings County,28.427324537504
+737,Indiana,Johnson County,182.619134583122
+738,Indiana,Knox County,27.9900386259091
+739,Indiana,Kosciusko County,57.25465488931789
+740,Indiana,LaGrange County,39.605942454369895
+741,Indiana,Lake County,376.835148662182
+742,Indiana,LaPorte County,71.346686349193
+743,Indiana,Lawrence County,39.21290010909139
+744,Indiana,Madison County,110.64362580845699
+745,Indiana,Marion County,919.884200648008
+746,Indiana,Marshall County,40.553713961171205
+747,Indiana,Martin County,11.740818251777
+748,Indiana,Miami County,37.078350762766
+749,Indiana,Monroe County,142.299873628478
+750,Indiana,Montgomery County,29.2847088444447
+751,Indiana,Morgan County,66.6649050490764
+752,Indiana,Newton County,13.471853394036401
+753,Indiana,Noble County,44.5938131633206
+754,Indiana,Ohio County,26.384098159278697
+755,Indiana,Orange County,18.9446640493838
+756,Indiana,Owen County,20.9216928004794
+757,Indiana,Parke County,14.7560217989227
+758,Indiana,Perry County,19.359776411726198
+759,Indiana,Pike County,14.3342902165995
+760,Indiana,Porter County,155.19211669522198
+761,Indiana,Posey County,24.134478844035502
+762,Indiana,Pulaski County,11.271484822281101
+763,Indiana,Putnam County,30.177909167557896
+764,Indiana,Randolph County,21.402173356223198
+765,Indiana,Ripley County,24.5840645470896
+766,Indiana,Rush County,15.8026873132006
+767,Indiana,St. Joseph County,227.03076504403703
+768,Indiana,Scott County,48.1479334558368
+769,Indiana,Shelby County,41.6959742046215
+770,Indiana,Spencer County,19.9742372432059
+771,Indiana,Starke County,28.651902544404603
+772,Indiana,Steuben County,43.107086252543
+773,Indiana,Sullivan County,17.9524461218918
+774,Indiana,Switzerland County,18.596358350103603
+775,Indiana,Tippecanoe County,146.493851975113
+776,Indiana,Tipton County,22.5519474618048
+777,Indiana,Union County,17.1337285211568
+778,Indiana,Vanderburgh County,299.58893000951
+779,Indiana,Vermillion County,23.388812111739398
+780,Indiana,Vigo County,103.03669499101801
+781,Indiana,Wabash County,29.6043214855643
+782,Indiana,Warren County,8.73119778455623
+783,Indiana,Warrick County,62.1352390414225
+784,Indiana,Washington County,20.915430173673602
+785,Indiana,Wayne County,64.0193741330359
+786,Indiana,Wells County,29.3147906682794
+787,Indiana,White County,18.5106626289579
+788,Indiana,Whitley County,38.7147213683532
+789,Iowa,Adair County,4.83178224385313
+790,Iowa,Adams County,3.3975076635134798
+791,Iowa,Allamakee County,8.38612095893759
+792,Iowa,Appanoose County,9.712892329837699
+793,Iowa,Audubon County,4.91342644155863
+794,Iowa,Benton County,13.8168174824738
+795,Iowa,Black Hawk County,90.754180345967
+796,Iowa,Boone County,17.833197854328603
+797,Iowa,Bremer County,21.972086978819497
+798,Iowa,Buchanan County,14.2824693086874
+799,Iowa,Buena Vista County,13.606613072384802
+800,Iowa,Butler County,9.80663615581125
+801,Iowa,Calhoun County,6.62648939419904
+802,Iowa,Carroll County,13.794084523475302
+803,Iowa,Cass County,9.02613748329192
+804,Iowa,Cedar County,12.290122078339
+805,Iowa,Cerro Gordo County,29.2032627979919
+806,Iowa,Cherokee County,7.675106755846009
+807,Iowa,Chickasaw County,9.26259449419624
+808,Iowa,Clarke County,8.31187035936578
+809,Iowa,Clay County,11.1037790713866
+810,Iowa,Clayton County,8.764586182461361
+811,Iowa,Clinton County,26.2348655598265
+812,Iowa,Crawford County,9.26182770429734
+813,Iowa,Dallas County,55.1287859287828
+814,Iowa,Davis County,6.83113722702071
+815,Iowa,Decatur County,5.83927927224874
+816,Iowa,Delaware County,11.534637225309599
+817,Iowa,Des Moines County,36.742520750234206
+818,Iowa,Dickinson County,17.3062085599077
+819,Iowa,Dubuque County,61.4425506828954
+820,Iowa,Emmet County,9.31506351619574
+821,Iowa,Fayette County,10.5286183601125
+822,Iowa,Floyd County,12.230155667007
+823,Iowa,Franklin County,6.79691675084483
+824,Iowa,Fremont County,5.26317473075789
+825,Iowa,Greene County,6.10247440960604
+826,Iowa,Grundy County,9.494553800920661
+827,Iowa,Guthrie County,6.9778441335265
+828,Iowa,Hamilton County,10.115248427723198
+829,Iowa,Hancock County,7.3622533305269
+830,Iowa,Hardin County,11.6154228902874
+831,Iowa,Harrison County,7.83626121606234
+832,Iowa,Henry County,17.7151542422633
+833,Iowa,Howard County,7.5581125418279305
+834,Iowa,Humboldt County,8.50299955175699
+835,Iowa,Ida County,6.1882615051831795
+836,Iowa,Iowa County,10.670139728788
+837,Iowa,Jackson County,11.7736543595863
+838,Iowa,Jasper County,19.500879000892
+839,Iowa,Jefferson County,16.0257120044677
+840,Iowa,Johnson County,92.590888455936
+841,Iowa,Jones County,13.7960833386247
+842,Iowa,Keokuk County,6.799743694994321
+843,Iowa,Kossuth County,5.9836582565878205
+844,Iowa,Lee County,25.7682400801855
+845,Iowa,Linn County,119.596562572926
+846,Iowa,Louisa County,10.785289798805302
+847,Iowa,Lucas County,7.70853268413016
+848,Iowa,Lyon County,7.73255243940423
+849,Iowa,Madison County,10.936000462662301
+850,Iowa,Mahaska County,15.0203460319657
+851,Iowa,Marion County,23.122708714046897
+852,Iowa,Marshall County,27.159192106327897
+853,Iowa,Mills County,13.201814393395699
+854,Iowa,Mitchell County,8.74944109971845
+855,Iowa,Monona County,4.89308780326811
+856,Iowa,Monroe County,6.99978151832899
+857,Iowa,Montgomery County,9.2452174856387
+858,Iowa,Muscatine County,37.9089723982371
+859,Iowa,O'Brien County,9.373015523706759
+860,Iowa,Osceola County,5.92198008840868
+861,Iowa,Page County,11.0884354382736
+862,Iowa,Palo Alto County,6.2003915225072594
+863,Iowa,Plymouth County,11.204559727688197
+864,Iowa,Pocahontas County,4.613901338254791
+865,Iowa,Polk County,320.017403423495
+866,Iowa,Pottawattamie County,37.9810442048628
+867,Iowa,Poweshiek County,12.2809725834815
+868,Iowa,Ringgold County,3.5935422206263303
+869,Iowa,Sac County,6.625930764832949
+870,Iowa,Scott County,145.21451535463
+871,Iowa,Shelby County,7.64258506064829
+872,Iowa,Sioux County,17.5098108878228
+873,Iowa,Story County,65.3423343665248
+874,Iowa,Tama County,9.17634325343163
+875,Iowa,Taylor County,4.50124493394083
+876,Iowa,Union County,11.3494291125968
+877,Iowa,Van Buren County,5.7524160834447695
+878,Iowa,Wapello County,31.5748574435868
+879,Iowa,Warren County,33.445287131160896
+880,Iowa,Washington County,15.030382642731901
+881,Iowa,Wayne County,4.71192865193374
+882,Iowa,Webster County,19.829236476250202
+883,Iowa,Winnebago County,10.1912540225567
+884,Iowa,Winneshiek County,11.4184703260696
+885,Iowa,Woodbury County,45.2929973090812
+886,Iowa,Worth County,7.22656774865337
+887,Iowa,Wright County,8.51743704659603
+888,Kansas,Allen County,9.74714692327418
+889,Kansas,Anderson County,5.23021204625156
+890,Kansas,Atchison County,14.652515732674198
+891,Kansas,Barber County,1.6113803185843798
+892,Kansas,Barton County,11.5542921973368
+893,Kansas,Bourbon County,8.93270576913352
+894,Kansas,Brown County,6.53613304678648
+895,Kansas,Butler County,17.9506584880174
+896,Kansas,Chase County,1.3210456192648101
+897,Kansas,Chautauqua County,2.03481714887133
+898,Kansas,Cherokee County,13.359915809255199
+899,Kansas,Cheyenne County,1.0134385967005302
+900,Kansas,Clark County,0.813294674589136
+901,Kansas,Clay County,4.87161536512345
+902,Kansas,Cloud County,4.8900899655111
+903,Kansas,Coffey County,5.10955763067403
+904,Kansas,Comanche County,0.871830565407287
+905,Kansas,Cowley County,12.206891233193
+906,Kansas,Crawford County,25.602648844759802
+907,Kansas,Decatur County,1.24492301941377
+908,Kansas,Dickinson County,8.662222525342269
+909,Kansas,Doniphan County,7.59096927897445
+910,Kansas,Douglas County,101.083324883461
+911,Kansas,Edwards County,1.81598147963621
+912,Kansas,Elk County,1.5353851100067197
+913,Kansas,Ellis County,12.389937838101302
+914,Kansas,Ellsworth County,3.3955077566192995
+915,Kansas,Finney County,10.9594513824314
+916,Kansas,Ford County,12.1230093195356
+917,Kansas,Franklin County,17.2623192219016
+918,Kansas,Geary County,35.025565852595705
+919,Kansas,Gove County,0.943579106344349
+920,Kansas,Graham County,1.09360114918754
+921,Kansas,Grant County,5.11571493272863
+922,Kansas,Gray County,2.68268644780795
+923,Kansas,Greeley County,0.5952209991682861
+924,Kansas,Greenwood County,2.0789265104858203
+925,Kansas,Hamilton County,1.0135770003025
+926,Kansas,Harper County,2.73359339156183
+927,Kansas,Harvey County,24.718139813529998
+928,Kansas,Haskell County,2.70562972249843
+929,Kansas,Hodgeman County,0.826984606480699
+930,Kansas,Jackson County,7.835959798238401
+931,Kansas,Jefferson County,13.693304072687399
+932,Kansas,Jewell County,1.23726375288756
+933,Kansas,Johnson County,477.318848192482
+934,Kansas,Kearny County,1.7439152966892901
+935,Kansas,Kingman County,3.34063751278237
+936,Kansas,Kiowa County,1.34962732670101
+937,Kansas,Labette County,12.184423156091599
+938,Kansas,Lane County,0.883707806058962
+939,Kansas,Leavenworth County,66.6897964386489
+940,Kansas,Lincoln County,1.6621702483667902
+941,Kansas,Linn County,6.2619312252529005
+942,Kansas,Logan County,1.01114063925249
+943,Kansas,Lyon County,15.170487286015199
+944,Kansas,McPherson County,12.3058109770328
+945,Kansas,Marion County,4.91960919040011
+946,Kansas,Marshall County,4.20254952724026
+947,Kansas,Meade County,1.68204734283425
+948,Kansas,Miami County,22.210242265926105
+949,Kansas,Mitchell County,3.42313339895894
+950,Kansas,Montgomery County,19.7792301007933
+951,Kansas,Morris County,3.09062667418257
+952,Kansas,Morton County,1.5015917729939101
+953,Kansas,Nemaha County,5.43773105018929
+954,Kansas,Neosho County,10.8944519129037
+955,Kansas,Ness County,1.0615893395651201
+956,Kansas,Norton County,2.41235882470837
+957,Kansas,Osage County,8.69173394331611
+958,Kansas,Osborne County,1.55865734173011
+959,Kansas,Ottawa County,3.1617577507968098
+960,Kansas,Pawnee County,3.43429296723633
+961,Kansas,Phillips County,2.35704771577976
+962,Kansas,Pottawatomie County,10.812243475734999
+963,Kansas,Pratt County,5.03324783241464
+964,Kansas,Rawlins County,0.9058495199535309
+965,Kansas,Reno County,19.4050244581896
+966,Kansas,Republic County,2.5220688274832797
+967,Kansas,Rice County,5.1899696770359505
+968,Kansas,Riley County,47.680796943283994
+969,Kansas,Rooks County,2.21899052184776
+970,Kansas,Rush County,1.6686412559686101
+971,Kansas,Russell County,3.03955358710342
+972,Kansas,Saline County,29.4716768693891
+973,Kansas,Scott County,2.66284740419781
+974,Kansas,Sedgwick County,198.207877639299
+975,Kansas,Seward County,13.6971636244105
+976,Kansas,Shawnee County,126.53352307693399
+977,Kansas,Sheridan County,1.0799311483303
+978,Kansas,Sherman County,2.18119871340674
+979,Kansas,Smith County,1.5793954894679298
+980,Kansas,Stafford County,2.05421714117207
+981,Kansas,Stanton County,1.17075990643205
+982,Kansas,Stevens County,3.0186945844376005
+983,Kansas,Sumner County,7.58324916121726
+984,Kansas,Thomas County,2.81092525942016
+985,Kansas,Trego County,1.24059819677802
+986,Kansas,Wabaunsee County,3.3480436217711698
+987,Kansas,Wallace County,0.665582497153661
+988,Kansas,Washington County,2.3841187331001
+989,Kansas,Wichita County,1.15148305076834
+990,Kansas,Wilson County,5.94294394225124
+991,Kansas,Woodson County,2.45861397261375
+992,Kansas,Wyandotte County,418.452206181267
+993,Kentucky,Adair County,18.3301557189265
+994,Kentucky,Allen County,23.315891079333802
+995,Kentucky,Anderson County,42.434256015360496
+996,Kentucky,Ballard County,12.6527349721817
+997,Kentucky,Barren County,34.5887888008192
+998,Kentucky,Bath County,16.989773553670002
+999,Kentucky,Bell County,29.2354651341373
+1000,Kentucky,Boone County,202.383414580174
+1001,Kentucky,Bourbon County,26.8429420354317
+1002,Kentucky,Boyd County,116.146655605343
+1003,Kentucky,Boyle County,64.0392868490134
+1004,Kentucky,Bracken County,15.819942556352501
+1005,Kentucky,Breathitt County,10.2842139115176
+1006,Kentucky,Breckinridge County,13.606268557539199
+1007,Kentucky,Bullitt County,103.29559268073601
+1008,Kentucky,Butler County,11.5488616060125
+1009,Kentucky,Caldwell County,14.251927288452
+1010,Kentucky,Calloway County,38.883962683329
+1011,Kentucky,Campbell County,235.39522897724098
+1012,Kentucky,Carlisle County,9.86655893794688
+1013,Kentucky,Carroll County,32.1655648681905
+1014,Kentucky,Carter County,25.731029824662198
+1015,Kentucky,Casey County,13.7288192212056
+1016,Kentucky,Christian County,38.8857619329321
+1017,Kentucky,Clark County,54.8555372194201
+1018,Kentucky,Clay County,16.965420724227
+1019,Kentucky,Clinton County,19.987269532356102
+1020,Kentucky,Crittenden County,9.742567723518631
+1021,Kentucky,Cumberland County,8.49259642061692
+1022,Kentucky,Daviess County,84.1767681336379
+1023,Kentucky,Edmonson County,15.452504581765801
+1024,Kentucky,Elliott County,12.3862528359341
+1025,Kentucky,Estill County,21.834909503201605
+1026,Kentucky,Fayette County,433.878381178407
+1027,Kentucky,Fleming County,16.039176382321997
+1028,Kentucky,Floyd County,36.25164412461729
+1029,Kentucky,Franklin County,93.43390709986771
+1030,Kentucky,Fulton County,11.6431816162584
+1031,Kentucky,Gallatin County,34.1694936527447
+1032,Kentucky,Garrard County,29.076137495355802
+1033,Kentucky,Grant County,37.288833013127
+1034,Kentucky,Graves County,26.097184826052104
+1035,Kentucky,Grayson County,20.217685561237897
+1036,Kentucky,Green County,14.8785837646395
+1037,Kentucky,Greenup County,40.0884032404975
+1038,Kentucky,Hancock County,17.9376682425317
+1039,Kentucky,Hardin County,66.9497234122945
+1040,Kentucky,Harlan County,22.4899194182806
+1041,Kentucky,Harrison County,23.523093300377802
+1042,Kentucky,Hart County,17.4323598887199
+1043,Kentucky,Henderson County,40.8107923467656
+1044,Kentucky,Henry County,21.3270322773359
+1045,Kentucky,Hickman County,7.27982079223083
+1046,Kentucky,Hopkins County,32.5255137918243
+1047,Kentucky,Jackson County,14.957753373048
+1048,Kentucky,Jefferson County,778.0698342590781
+1049,Kentucky,Jessamine County,117.56304522940201
+1050,Kentucky,Johnson County,33.6676530941681
+1051,Kentucky,Kenton County,396.718193740676
+1052,Kentucky,Knott County,17.0392433853639
+1053,Kentucky,Knox County,31.450547023731104
+1054,Kentucky,Larue County,20.8969752651305
+1055,Kentucky,Laurel County,53.5398723319592
+1056,Kentucky,Lawrence County,14.662930866886
+1057,Kentucky,Lee County,12.480079267340901
+1058,Kentucky,Leslie County,10.0866294582477
+1059,Kentucky,Letcher County,25.9084534235737
+1060,Kentucky,Lewis County,10.7872650896404
+1061,Kentucky,Lincoln County,28.3715726947623
+1062,Kentucky,Livingston County,11.4217130810064
+1063,Kentucky,Logan County,18.772583861847803
+1064,Kentucky,Lyon County,14.780212098210301
+1065,Kentucky,McCracken County,101.334205822025
+1066,Kentucky,McCreary County,15.9532595602685
+1067,Kentucky,McLean County,14.2667497984006
+1068,Kentucky,Madison County,79.189239694072
+1069,Kentucky,Magoffin County,15.8549605533125
+1070,Kentucky,Marion County,21.646354238618496
+1071,Kentucky,Marshall County,39.942246019059795
+1072,Kentucky,Martin County,20.0417414708539
+1073,Kentucky,Mason County,27.580537371967395
+1074,Kentucky,Meade County,35.808290151124
+1075,Kentucky,Menifee County,12.147172824609699
+1076,Kentucky,Mercer County,33.3547334219045
+1077,Kentucky,Metcalfe County,13.335425927019
+1078,Kentucky,Monroe County,12.463362195229001
+1079,Kentucky,Montgomery County,54.30880936311971
+1080,Kentucky,Morgan County,13.4584223366695
+1081,Kentucky,Muhlenberg County,25.6771961246678
+1082,Kentucky,Nelson County,41.9732665377766
+1083,Kentucky,Nicholas County,14.0464609447056
+1084,Kentucky,Ohio County,15.825149157027301
+1085,Kentucky,Oldham County,134.80634557269101
+1086,Kentucky,Owen County,11.8115349374025
+1087,Kentucky,Owsley County,8.72902344082527
+1088,Kentucky,Pendleton County,20.227449703526897
+1089,Kentucky,Perry County,30.594181108597898
+1090,Kentucky,Pike County,29.683133164475603
+1091,Kentucky,Powell County,26.579167153866898
+1092,Kentucky,Pulaski County,37.6156289892021
+1093,Kentucky,Robertson County,8.28068634857138
+1094,Kentucky,Rockcastle County,20.5243896291141
+1095,Kentucky,Rowan County,33.8024501915536
+1096,Kentucky,Russell County,27.029474825020298
+1097,Kentucky,Scott County,73.3342474501108
+1098,Kentucky,Shelby County,47.567355557458804
+1099,Kentucky,Simpson County,29.7779797156616
+1100,Kentucky,Spencer County,37.7289685307359
+1101,Kentucky,Taylor County,36.9623660248854
+1102,Kentucky,Todd County,12.7325253602651
+1103,Kentucky,Trigg County,12.54244908343
+1104,Kentucky,Trimble County,21.990166935308498
+1105,Kentucky,Union County,16.669054092183
+1106,Kentucky,Warren County,90.10818904037359
+1107,Kentucky,Washington County,15.626165213945802
+1108,Kentucky,Wayne County,17.3667840419363
+1109,Kentucky,Webster County,15.294162426774301
+1110,Kentucky,Whitley County,31.8251761072959
+1111,Kentucky,Wolfe County,12.552590038743801
+1112,Kentucky,Woodford County,53.00114511068911
+1113,Louisiana,Acadia Parish,36.8723621120073
+1114,Louisiana,Allen Parish,13.0055296536035
+1115,Louisiana,Ascension Parish,161.302195918225
+1116,Louisiana,Assumption Parish,25.8987724052573
+1117,Louisiana,Avoyelles Parish,18.9711161031043
+1118,Louisiana,Beauregard Parish,12.2663294677861
+1119,Louisiana,Bienville Parish,6.50483155929996
+1120,Louisiana,Bossier Parish,57.954499046159604
+1121,Louisiana,Caddo Parish,109.114144755348
+1122,Louisiana,Calcasieu Parish,72.621532652941
+1123,Louisiana,Caldwell Parish,7.28979896941947
+1124,Louisiana,Cameron Parish,2.06382836543176
+1125,Louisiana,Catahoula Parish,5.394858883039451
+1126,Louisiana,Claiborne Parish,8.26187424603205
+1127,Louisiana,Concordia Parish,11.0909081886532
+1128,Louisiana,De Soto Parish,11.9900855262149
+1129,Louisiana,East Baton Rouge Parish,376.56437349878405
+1130,Louisiana,East Carroll Parish,6.63070010956982
+1131,Louisiana,East Feliciana Parish,16.6046834416139
+1132,Louisiana,Evangeline Parish,19.6064470444248
+1133,Louisiana,Franklin Parish,12.562530704390301
+1134,Louisiana,Grant Parish,13.4187583692172
+1135,Louisiana,Iberia Parish,48.887789440264704
+1136,Louisiana,Iberville Parish,20.5686574715065
+1137,Louisiana,Jackson Parish,10.803177507953201
+1138,Louisiana,Jefferson Parish,568.4608791628431
+1139,Louisiana,Jefferson Davis Parish,18.6523574583118
+1140,Louisiana,Lafayette Parish,344.938330874951
+1141,Louisiana,Lafourche Parish,35.494368703516706
+1142,Louisiana,LaSalle Parish,9.2396098853138
+1143,Louisiana,Lincoln Parish,38.75901342367229
+1144,Louisiana,Livingston Parish,82.2700866847613
+1145,Louisiana,Madison Parish,7.093740467766921
+1146,Louisiana,Morehouse Parish,12.624461522966099
+1147,Louisiana,Natchitoches Parish,12.013097574770802
+1148,Louisiana,Orleans Parish,887.9442127800451
+1149,Louisiana,Ouachita Parish,98.72412133601169
+1150,Louisiana,Plaquemines Parish,11.5646885514706
+1151,Louisiana,Pointe Coupee Parish,15.353476685003901
+1152,Louisiana,Rapides Parish,38.4673873512845
+1153,Louisiana,Red River Parish,8.55178364188231
+1154,Louisiana,Richland Parish,14.2246818865344
+1155,Louisiana,Sabine Parish,10.731358369506301
+1156,Louisiana,St. Bernard Parish,46.733740913587596
+1157,Louisiana,St. Charles Parish,73.2935338860763
+1158,Louisiana,St. Helena Parish,9.84238026899209
+1159,Louisiana,St. James Parish,34.13874235855911
+1160,Louisiana,St. John the Baptist Parish,78.26893585761259
+1161,Louisiana,St. Landry Parish,34.8732524683111
+1162,Louisiana,St. Martin Parish,28.1515199185348
+1163,Louisiana,St. Mary Parish,35.95261205000671
+1164,Louisiana,St. Tammany Parish,115.02065949315501
+1165,Louisiana,Tangipahoa Parish,63.6763882338832
+1166,Louisiana,Tensas Parish,2.9887179905581003
+1167,Louisiana,Terrebonne Parish,35.3465091279679
+1168,Louisiana,Union Parish,9.8949534919179
+1169,Louisiana,Vermilion Parish,19.7021339394862
+1170,Louisiana,Vernon Parish,14.8306747263427
+1171,Louisiana,Washington Parish,26.7906651779675
+1172,Louisiana,Webster Parish,25.795770976437502
+1173,Louisiana,West Baton Rouge Parish,51.8970845813326
+1174,Louisiana,West Carroll Parish,12.0024223250088
+1175,Louisiana,West Feliciana Parish,14.7206089591876
+1176,Louisiana,Winn Parish,5.890165170813691
+1177,Maine,Androscoggin County,88.65336765598141
+1178,Maine,Aroostook County,3.95110093156248
+1179,Maine,Cumberland County,134.420011706799
+1180,Maine,Franklin County,6.82985840873306
+1181,Maine,Hancock County,13.2682748856057
+1182,Maine,Kennebec County,54.09850380554279
+1183,Maine,Knox County,42.11023047508721
+1184,Maine,Lincoln County,28.853491698221504
+1185,Maine,Oxford County,10.656767820690698
+1186,Maine,Penobscot County,17.246661177046303
+1187,Maine,Piscataquis County,1.6460639477522299
+1188,Maine,Sagadahoc County,53.6302174387811
+1189,Maine,Somerset County,4.98916124298803
+1190,Maine,Waldo County,20.849296588433198
+1191,Maine,Washington County,4.77506785609243
+1192,Maine,York County,79.12611640041091
+1193,Maryland,Allegany County,65.82512308496429
+1194,Maryland,Anne Arundel County,528.43972176545
+1195,Maryland,Baltimore County,534.041378368073
+1196,Maryland,Calvert County,164.955174180291
+1197,Maryland,Caroline County,39.73528729917479
+1198,Maryland,Carroll County,144.4971046665
+1199,Maryland,Cecil County,114.30690382891599
+1200,Maryland,Charles County,132.977226509494
+1201,Maryland,Dorchester County,23.034511066894805
+1202,Maryland,Frederick County,145.25379141511002
+1203,Maryland,Garrett County,17.4742474557044
+1204,Maryland,Harford County,221.72714431716201
+1205,Maryland,Howard County,485.16032490329695
+1206,Maryland,Kent County,27.3066913979002
+1207,Maryland,Montgomery County,814.474796216959
+1208,Maryland,Prince George's County,724.9258165018159
+1209,Maryland,Queen Anne's County,51.2696369578568
+1210,Maryland,St. Mary's County,120.05516382516899
+1211,Maryland,Somerset County,31.0778796533919
+1212,Maryland,Talbot County,53.497654388578994
+1213,Maryland,Washington County,126.357557546089
+1214,Maryland,Wicomico County,105.36006274498399
+1215,Maryland,Worcester County,42.514322177182706
+1216,Maryland,Baltimore city,2932.04076142432
+1217,Massachusetts,Barnstable County,209.284881815058
+1218,Massachusetts,Berkshire County,53.040163858448494
+1219,Massachusetts,Bristol County,390.150502794615
+1220,Massachusetts,Dukes County,64.76978719617621
+1221,Massachusetts,Essex County,612.3264362012551
+1222,Massachusetts,Franklin County,39.16942190340279
+1223,Massachusetts,Hampden County,293.56506033553103
+1224,Massachusetts,Hampshire County,118.01967604524201
+1225,Massachusetts,Middlesex County,753.0895333200059
+1226,Massachusetts,Nantucket County,92.9035115811747
+1227,Massachusetts,Norfolk County,680.629713527744
+1228,Massachusetts,Plymouth County,300.082707595443
+1229,Massachusetts,Suffolk County,5248.51983296846
+1230,Massachusetts,Worcester County,210.16397012476003
+1231,Michigan,Alcona County,5.9312698527925996
+1232,Michigan,Alger County,3.87944692521868
+1233,Michigan,Allegan County,53.9210296442049
+1234,Michigan,Alpena County,19.3177634104714
+1235,Michigan,Antrim County,18.8125146896422
+1236,Michigan,Arenac County,16.1222753163353
+1237,Michigan,Baraga County,3.65591525564887
+1238,Michigan,Barry County,41.9243590908106
+1239,Michigan,Bay County,91.4844133123066
+1240,Michigan,Benzie County,21.1976980043916
+1241,Michigan,Berrien County,105.27253077783399
+1242,Michigan,Branch County,33.229536269713996
+1243,Michigan,Calhoun County,73.5147252427968
+1244,Michigan,Cass County,40.5398857771623
+1245,Michigan,Charlevoix County,24.315378465833202
+1246,Michigan,Cheboygan County,13.742127307703301
+1247,Michigan,Chippewa County,9.37293543780067
+1248,Michigan,Clare County,20.945471151769603
+1249,Michigan,Clinton County,53.0982086269298
+1250,Michigan,Crawford County,9.60116203871735
+1251,Michigan,Delta County,11.9315382066062
+1252,Michigan,Dickinson County,12.9741294904056
+1253,Michigan,Eaton County,73.269869420923
+1254,Michigan,Emmet County,27.285364538763197
+1255,Michigan,Genesee County,248.138524479207
+1256,Michigan,Gladwin County,19.458758147010396
+1257,Michigan,Gogebic County,5.39986088054022
+1258,Michigan,Grand Traverse County,76.2876267904394
+1259,Michigan,Gratiot County,27.896902168537398
+1260,Michigan,Hillsdale County,29.582874491901304
+1261,Michigan,Houghton County,13.912067271288599
+1262,Michigan,Huron County,14.5671910836676
+1263,Michigan,Ingham County,201.035246541188
+1264,Michigan,Ionia County,43.37072154988729
+1265,Michigan,Iosco County,17.7523772348844
+1266,Michigan,Iron County,3.71268201702155
+1267,Michigan,Isabella County,47.7151144990259
+1268,Michigan,Jackson County,87.417531936469
+1269,Michigan,Kalamazoo County,179.676476297872
+1270,Michigan,Kalkaska County,12.0456985369594
+1271,Michigan,Kent County,292.810575287583
+1272,Michigan,Keweenaw County,1.52264314362296
+1273,Michigan,Lake County,8.00192219191265
+1274,Michigan,Lapeer County,52.8318746769519
+1275,Michigan,Leelanau County,24.063564293741997
+1276,Michigan,Lenawee County,50.719493098691395
+1277,Michigan,Livingston County,128.746261369795
+1278,Michigan,Luce County,2.7329801564001
+1279,Michigan,Mackinac County,4.08710386177503
+1280,Michigan,Macomb County,699.8635882962731
+1281,Michigan,Manistee County,17.4026153482459
+1282,Michigan,Marquette County,14.286747890563099
+1283,Michigan,Mason County,22.5309176879047
+1284,Michigan,Mecosta County,30.0915382032582
+1285,Michigan,Menominee County,8.59228634626999
+1286,Michigan,Midland County,62.3649377461934
+1287,Michigan,Missaukee County,10.2584531055017
+1288,Michigan,Monroe County,105.214324109839
+1289,Michigan,Montcalm County,34.601082494666
+1290,Michigan,Montmorency County,6.54080377104677
+1291,Michigan,Muskegon County,132.593461059484
+1292,Michigan,Newaygo County,22.157348226385103
+1293,Michigan,Oakland County,556.779856652962
+1294,Michigan,Oceana County,18.955192215981604
+1295,Michigan,Ogemaw County,14.3394850740654
+1296,Michigan,Ontonagon County,1.7576637694403798
+1297,Michigan,Osceola County,15.8399170096348
+1298,Michigan,Oscoda County,5.649489753572579
+1299,Michigan,Otsego County,18.289787198209698
+1300,Michigan,Ottawa County,194.610161958705
+1301,Michigan,Presque Isle County,7.500864573260531
+1302,Michigan,Roscommon County,17.732294118659603
+1303,Michigan,Saginaw County,92.9859007490757
+1304,Michigan,St. Clair County,85.41210959621391
+1305,Michigan,St. Joseph County,46.9689870712998
+1306,Michigan,Sanilac County,16.5965684869053
+1307,Michigan,Schoolcraft County,2.65852149538412
+1308,Michigan,Shiawassee County,49.80663028279471
+1309,Michigan,Tuscola County,25.5559258661205
+1310,Michigan,Van Buren County,47.816576982834995
+1311,Michigan,Washtenaw County,200.147034273147
+1312,Michigan,Wayne County,1111.24397371973
+1313,Michigan,Wexford County,22.6299619987434
+1314,Minnesota,Aitkin County,3.3557746812559404
+1315,Minnesota,Anoka County,317.892594920879
+1316,Minnesota,Becker County,9.915577813960029
+1317,Minnesota,Beltrami County,7.10897123199923
+1318,Minnesota,Benton County,37.6166677346898
+1319,Minnesota,Big Stone County,3.8797713797377598
+1320,Minnesota,Blue Earth County,34.244241587739
+1321,Minnesota,Brown County,15.9290390909683
+1322,Minnesota,Carlton County,15.931740141089302
+1323,Minnesota,Carver County,109.460627916026
+1324,Minnesota,Cass County,5.543212648140099
+1325,Minnesota,Chippewa County,7.979724605445339
+1326,Minnesota,Chisago County,50.9278996405748
+1327,Minnesota,Clay County,23.1990454770267
+1328,Minnesota,Clearwater County,3.4066547996369905
+1329,Minnesota,Cook County,1.4118807468514298
+1330,Minnesota,Cottonwood County,6.860833751962139
+1331,Minnesota,Crow Wing County,24.6949530066956
+1332,Minnesota,Dakota County,287.08626114425203
+1333,Minnesota,Dodge County,18.0904903307604
+1334,Minnesota,Douglas County,22.558430742347802
+1335,Minnesota,Faribault County,7.53044567151137
+1336,Minnesota,Fillmore County,9.36368028056348
+1337,Minnesota,Freeborn County,16.6642661174271
+1338,Minnesota,Goodhue County,23.576602755725602
+1339,Minnesota,Grant County,4.18526828881064
+1340,Minnesota,Hennepin County,861.285007801729
+1341,Minnesota,Houston County,13.053002109179198
+1342,Minnesota,Hubbard County,8.69850643104635
+1343,Minnesota,Isanti County,34.5338418775747
+1344,Minnesota,Itasca County,6.54326994178345
+1345,Minnesota,Jackson County,5.51823936125963
+1346,Minnesota,Kanabec County,11.8460391110941
+1347,Minnesota,Kandiyohi County,20.655284769340998
+1348,Minnesota,Kittson County,1.5239383976930299
+1349,Minnesota,Koochiching County,1.5726623335403898
+1350,Minnesota,Lac qui Parle County,3.4182995571497297
+1351,Minnesota,Lake County,1.9346607169685102
+1352,Minnesota,Lake of the Woods County,1.1331377669831202
+1353,Minnesota,Le Sueur County,24.0807232105093
+1354,Minnesota,Lincoln County,4.1049942086746
+1355,Minnesota,Lyon County,13.9646482888375
+1356,Minnesota,McLeod County,28.1434691540873
+1357,Minnesota,Mahnomen County,3.81072853839715
+1358,Minnesota,Marshall County,2.04290071223293
+1359,Minnesota,Martin County,10.821018172885301
+1360,Minnesota,Meeker County,14.6543651681196
+1361,Minnesota,Mille Lacs County,17.3554637244115
+1362,Minnesota,Morrison County,11.3072127670083
+1363,Minnesota,Mower County,21.4955796920245
+1364,Minnesota,Murray County,4.57682632561572
+1365,Minnesota,Nicollet County,29.0736891062961
+1366,Minnesota,Nobles County,11.791575542518402
+1367,Minnesota,Norman County,2.9015540306226004
+1368,Minnesota,Olmsted County,90.4328724869858
+1369,Minnesota,Otter Tail County,11.355253159464601
+1370,Minnesota,Pennington County,8.88204931571274
+1371,Minnesota,Pine County,7.96914881578951
+1372,Minnesota,Pipestone County,7.62564603875476
+1373,Minnesota,Polk County,6.18818067058906
+1374,Minnesota,Pope County,6.3316884179635595
+1375,Minnesota,Ramsey County,1373.48668948003
+1376,Minnesota,Red Lake County,3.57879726665573
+1377,Minnesota,Redwood County,6.737440087239309
+1378,Minnesota,Renville County,5.78259087840044
+1379,Minnesota,Rice County,51.2102658834513
+1380,Minnesota,Rock County,7.533047082612639
+1381,Minnesota,Roseau County,3.5713362432763702
+1382,Minnesota,St. Louis County,12.364611450441501
+1383,Minnesota,Scott County,155.385852169749
+1384,Minnesota,Sherburne County,83.1506191730218
+1385,Minnesota,Sibley County,9.777886501977239
+1386,Minnesota,Stearns County,45.09063610771479
+1387,Minnesota,Steele County,32.9590235430063
+1388,Minnesota,Stevens County,6.70254310186663
+1389,Minnesota,Swift County,4.896789922764531
+1390,Minnesota,Todd County,9.985919718362679
+1391,Minnesota,Traverse County,2.24514089226252
+1392,Minnesota,Wabasha County,15.873592045148001
+1393,Minnesota,Wadena County,9.82468480654778
+1394,Minnesota,Waseca County,17.1535908769826
+1395,Minnesota,Washington County,254.433333118759
+1396,Minnesota,Watonwan County,9.7405618873084
+1397,Minnesota,Wilkin County,3.2610485715005497
+1398,Minnesota,Winona County,31.3553294053441
+1399,Minnesota,Wright County,77.52473686921971
+1400,Minnesota,Yellow Medicine County,5.01916785515268
+1401,Mississippi,Adams County,26.3448360714935
+1402,Mississippi,Alcorn County,35.8842061373607
+1403,Mississippi,Amite County,6.59350817495355
+1404,Mississippi,Attala County,9.76134176582837
+1405,Mississippi,Benton County,7.8366288888359295
+1406,Mississippi,Bolivar County,14.3542847108247
+1407,Mississippi,Calhoun County,9.591117351256369
+1408,Mississippi,Carroll County,6.2245602287974595
+1409,Mississippi,Chickasaw County,13.2955346697121
+1410,Mississippi,Choctaw County,7.68241742057477
+1411,Mississippi,Claiborne County,7.22433449202919
+1412,Mississippi,Clarke County,8.89247572919536
+1413,Mississippi,Clay County,18.650441545814
+1414,Mississippi,Coahoma County,16.633830203238002
+1415,Mississippi,Copiah County,14.266634256373301
+1416,Mississippi,Covington County,17.8123420418307
+1417,Mississippi,DeSoto County,142.771871645678
+1418,Mississippi,Forrest County,62.563642933501605
+1419,Mississippi,Franklin County,5.310617435283651
+1420,Mississippi,George County,19.1237863104343
+1421,Mississippi,Greene County,7.429122189970959
+1422,Mississippi,Grenada County,19.462337442788503
+1423,Mississippi,Hancock County,38.0046385975804
+1424,Mississippi,Harrison County,136.381847942863
+1425,Mississippi,Hinds County,107.326458837202
+1426,Mississippi,Holmes County,9.22298894455853
+1427,Mississippi,Humphreys County,7.87768938748075
+1428,Mississippi,Issaquena County,1.24137336302149
+1429,Mississippi,Itawamba County,17.0153185760814
+1430,Mississippi,Jackson County,75.86074194232921
+1431,Mississippi,Jasper County,9.4373156284519
+1432,Mississippi,Jefferson County,5.455137270037769
+1433,Mississippi,Jefferson Davis County,10.866161006169698
+1434,Mississippi,Jones County,38.0394248803715
+1435,Mississippi,Kemper County,5.09321919229063
+1436,Mississippi,Lafayette County,32.6750410410868
+1437,Mississippi,Lamar County,47.5931985475159
+1438,Mississippi,Lauderdale County,42.427850636955796
+1439,Mississippi,Lawrence County,11.3227883634533
+1440,Mississippi,Leake County,15.148733307267499
+1441,Mississippi,Lee County,72.86541381620441
+1442,Mississippi,Leflore County,19.3702813434252
+1443,Mississippi,Lincoln County,22.681368395201602
+1444,Mississippi,Lowndes County,45.40320829518271
+1445,Mississippi,Madison County,55.92727918189179
+1446,Mississippi,Marion County,17.940308579885198
+1447,Mississippi,Marshall County,19.566309991649
+1448,Mississippi,Monroe County,18.086667008685
+1449,Mississippi,Montgomery County,9.67483600977454
+1450,Mississippi,Neshoba County,19.893797864854502
+1451,Mississippi,Newton County,14.381579240508099
+1452,Mississippi,Noxubee County,6.014045635846861
+1453,Mississippi,Oktibbeha County,41.6916763923372
+1454,Mississippi,Panola County,19.2962311027761
+1455,Mississippi,Pearl River County,26.2451578483274
+1456,Mississippi,Perry County,7.17549935837983
+1457,Mississippi,Pike County,37.510720011931795
+1458,Mississippi,Pontotoc County,24.290225230029396
+1459,Mississippi,Prentiss County,23.594923602056397
+1460,Mississippi,Quitman County,7.0278092404063
+1461,Mississippi,Rankin County,75.29564323516699
+1462,Mississippi,Scott County,18.0080884119709
+1463,Mississippi,Sharkey County,4.03434356995889
+1464,Mississippi,Simpson County,17.741957601518397
+1465,Mississippi,Smith County,9.74740321529336
+1466,Mississippi,Stone County,15.9256353277404
+1467,Mississippi,Sunflower County,14.6813804289131
+1468,Mississippi,Tallahatchie County,8.59369213004294
+1469,Mississippi,Tate County,27.179353723102
+1470,Mississippi,Tippah County,18.545152519142
+1471,Mississippi,Tishomingo County,17.724371186460303
+1472,Mississippi,Tunica County,8.63612679404092
+1473,Mississippi,Union County,26.3429291487746
+1474,Mississippi,Walthall County,13.9566324273032
+1475,Mississippi,Warren County,30.883998255286002
+1476,Mississippi,Washington County,25.0849809802452
+1477,Mississippi,Wayne County,9.72594025800096
+1478,Mississippi,Webster County,9.014770635644231
+1479,Mississippi,Wilkinson County,5.1187529415997
+1480,Mississippi,Winston County,11.6723759768565
+1481,Mississippi,Yalobusha County,10.2660132731477
+1482,Mississippi,Yazoo County,11.7102494377234
+1483,Missouri,Adair County,17.2353708853361
+1484,Missouri,Andrew County,15.531313601199999
+1485,Missouri,Atchison County,3.71791106236372
+1486,Missouri,Audrain County,14.3539298462993
+1487,Missouri,Barry County,17.6085490274008
+1488,Missouri,Barton County,7.728171676383849
+1489,Missouri,Bates County,7.55596648166993
+1490,Missouri,Benton County,10.4137161868681
+1491,Missouri,Bollinger County,7.673882055149701
+1492,Missouri,Boone County,99.4136366707352
+1493,Missouri,Buchanan County,84.2447513744697
+1494,Missouri,Butler County,23.7512864923541
+1495,Missouri,Caldwell County,8.193956256306
+1496,Missouri,Callaway County,20.744707941497897
+1497,Missouri,Camden County,26.5410090432927
+1498,Missouri,Cape Girardeau County,52.2718169263982
+1499,Missouri,Carroll County,4.91533950799991
+1500,Missouri,Carter County,4.71594582114447
+1501,Missouri,Cass County,56.9098061712793
+1502,Missouri,Cedar County,11.341802434116302
+1503,Missouri,Chariton County,3.8786106944785694
+1504,Missouri,Christian County,57.8318159455434
+1505,Missouri,Clark County,5.20305404673386
+1506,Missouri,Clay County,232.20973862772598
+1507,Missouri,Clinton County,18.8693183722079
+1508,Missouri,Cole County,75.6799564503172
+1509,Missouri,Cooper County,12.047551460003099
+1510,Missouri,Crawford County,12.6260661483017
+1511,Missouri,Dade County,5.98051718171502
+1512,Missouri,Dallas County,11.7761042887628
+1513,Missouri,Daviess County,5.69056399595829
+1514,Missouri,DeKalb County,11.5127553746931
+1515,Missouri,Dent County,7.952232527193661
+1516,Missouri,Douglas County,6.34658785161874
+1517,Missouri,Dunklin County,21.711876746719103
+1518,Missouri,Franklin County,43.0066240737134
+1519,Missouri,Gasconade County,10.969960598172
+1520,Missouri,Gentry County,5.23658212158345
+1521,Missouri,Greene County,164.903158307784
+1522,Missouri,Grundy County,8.904548618438529
+1523,Missouri,Harrison County,4.57112957964313
+1524,Missouri,Henry County,12.057665049334302
+1525,Missouri,Hickory County,9.069544683878831
+1526,Missouri,Holt County,3.7183853951167705
+1527,Missouri,Howard County,8.41900627504426
+1528,Missouri,Howell County,16.698296701700002
+1529,Missouri,Iron County,7.17173427168648
+1530,Missouri,Jackson County,441.979622490107
+1531,Missouri,Jasper County,72.1026831751726
+1532,Missouri,Jefferson County,131.327441026712
+1533,Missouri,Johnson County,24.997547619941802
+1534,Missouri,Knox County,3.02671269065607
+1535,Missouri,Laclede County,17.9277047802164
+1536,Missouri,Lafayette County,20.022317206897398
+1537,Missouri,Lawrence County,24.0678867778138
+1538,Missouri,Lewis County,7.66559370015563
+1539,Missouri,Lincoln County,34.239239198941
+1540,Missouri,Linn County,7.643167885407081
+1541,Missouri,Livingston County,10.935377402472401
+1542,Missouri,McDonald County,16.3371237564586
+1543,Missouri,Macon County,7.35090717451952
+1544,Missouri,Madison County,9.53174499484654
+1545,Missouri,Maries County,6.50905817541008
+1546,Missouri,Marion County,25.3370527228905
+1547,Missouri,Mercer County,3.11716315067225
+1548,Missouri,Miller County,16.3203558583718
+1549,Missouri,Mississippi County,12.8968658687225
+1550,Missouri,Moniteau County,14.845789731287802
+1551,Missouri,Monroe County,5.15911654363076
+1552,Missouri,Montgomery County,8.33113641254108
+1553,Missouri,Morgan County,13.0096190469237
+1554,Missouri,New Madrid County,10.1901249145458
+1555,Missouri,Newton County,35.9692523345999
+1556,Missouri,Nodaway County,9.92679776276597
+1557,Missouri,Oregon County,5.23034363970747
+1558,Missouri,Osage County,8.66881102629886
+1559,Missouri,Ozark County,4.78681337607
+1560,Missouri,Pemiscot County,13.348545905061501
+1561,Missouri,Perry County,15.583919183817
+1562,Missouri,Pettis County,23.979690038439397
+1563,Missouri,Phelps County,25.742305758782
+1564,Missouri,Pike County,10.647717212272099
+1565,Missouri,Platte County,90.8943251716872
+1566,Missouri,Polk County,19.166999934961396
+1567,Missouri,Pulaski County,37.1139976200309
+1568,Missouri,Putnam County,3.5937023530065098
+1569,Missouri,Ralls County,8.39711423902516
+1570,Missouri,Randolph County,19.9525220040604
+1571,Missouri,Ray County,15.493386923550197
+1572,Missouri,Reynolds County,3.0158365214804603
+1573,Missouri,Ripley County,8.39804391703739
+1574,Missouri,St. Charles County,268.652251066858
+1575,Missouri,St. Clair County,5.367255520055269
+1576,Missouri,Ste. Genevieve County,13.8234785966361
+1577,Missouri,St. Francois County,56.68575764751021
+1578,Missouri,St. Louis County,759.9012476871401
+1579,Missouri,Saline County,11.8065101284919
+1580,Missouri,Schuyler County,5.65637292732567
+1581,Missouri,Scotland County,4.332410851199991
+1582,Missouri,Scott County,35.6039402972382
+1583,Missouri,Shannon County,3.17167941341135
+1584,Missouri,Shelby County,4.672262407404809
+1585,Missouri,Stoddard County,13.841605744946301
+1586,Missouri,Stone County,26.232520196432
+1587,Missouri,Sullivan County,3.76400617264121
+1588,Missouri,Taney County,33.4108526171897
+1589,Missouri,Texas County,8.41919520227286
+1590,Missouri,Vernon County,9.66713820616124
+1591,Missouri,Warren County,30.5453978435104
+1592,Missouri,Washington County,12.667908056617
+1593,Missouri,Wayne County,6.76811829501464
+1594,Missouri,Webster County,24.8134809852954
+1595,Missouri,Worth County,2.9541028512149197
+1596,Missouri,Wright County,10.359726838224901
+1597,Missouri,St. Louis city,1946.48852152518
+1598,Montana,Beaverhead County,0.654314037624461
+1599,Montana,Big Horn County,1.03335304680883
+1600,Montana,Blaine County,0.614439102826025
+1601,Montana,Broadwater County,1.88912889975451
+1602,Montana,Carbon County,1.9884866318558703
+1603,Montana,Carter County,0.152338308116587
+1604,Montana,Cascade County,11.6976558016544
+1605,Montana,Chouteau County,0.562649284351578
+1606,Montana,Custer County,1.20883090357743
+1607,Montana,Daniels County,0.474634871969183
+1608,Montana,Dawson County,1.49611643350748
+1609,Montana,Deer Lodge County,4.7693937283275405
+1610,Montana,Fallon County,0.6761642574114191
+1611,Montana,Fergus County,1.00304204438391
+1612,Montana,Flathead County,7.44416672424659
+1613,Montana,Gallatin County,15.522403191253
+1614,Montana,Garfield County,0.0942022809095075
+1615,Montana,Glacier County,1.7660462661429297
+1616,Montana,Golden Valley County,0.238021613661119
+1617,Montana,Granite County,0.730775675057869
+1618,Montana,Hill County,2.18929327414761
+1619,Montana,Jefferson County,2.74465213584628
+1620,Montana,Judith Basin County,0.40289384095522396
+1621,Montana,Lake County,7.71289006857083
+1622,Montana,Lewis and Clark County,7.48864201778072
+1623,Montana,Liberty County,0.615610723803374
+1624,Montana,Lincoln County,2.06896594549494
+1625,Montana,McCone County,0.23818806369947898
+1626,Montana,Madison County,0.8842944273274341
+1627,Montana,Meagher County,0.317680163643264
+1628,Montana,Mineral County,1.33310128570151
+1629,Montana,Missoula County,17.2700086788915
+1630,Montana,Musselshell County,0.993063276792967
+1631,Montana,Park County,2.2382451014786002
+1632,Montana,Petroleum County,0.10074514408434698
+1633,Montana,Phillips County,0.309754319083627
+1634,Montana,Pondera County,1.43644547037516
+1635,Montana,Powder River County,0.189527657125451
+1636,Montana,Powell County,1.13886461299252
+1637,Montana,Prairie County,0.298369404534263
+1638,Montana,Ravalli County,6.7664037780893596
+1639,Montana,Richland County,2.10431503800759
+1640,Montana,Roosevelt County,1.84136756089834
+1641,Montana,Rosebud County,0.713128729279225
+1642,Montana,Sanders County,1.61146273488614
+1643,Montana,Sheridan County,0.8234431321690809
+1644,Montana,Silver Bow County,18.7215497841525
+1645,Montana,Stillwater County,2.0221117151039403
+1646,Montana,Sweet Grass County,0.7601334288405509
+1647,Montana,Teton County,1.03341161101646
+1648,Montana,Toole County,1.00325234045333
+1649,Montana,Treasure County,0.306812412218308
+1650,Montana,Valley County,0.590349696305137
+1651,Montana,Wheatland County,0.5833003361726489
+1652,Montana,Wibaux County,0.510539111008718
+1653,Montana,Yellowstone County,23.1379782522651
+1654,Nebraska,Adams County,21.6489607989518
+1655,Nebraska,Antelope County,2.8699707526243996
+1656,Nebraska,Arthur County,0.22560939416877804
+1657,Nebraska,Banner County,0.36012231324636207
+1658,Nebraska,Blaine County,0.260774045385267
+1659,Nebraska,Boone County,2.98790994793715
+1660,Nebraska,Box Butte County,3.9816951667063796
+1661,Nebraska,Boyd County,1.4602149641372202
+1662,Nebraska,Brown County,0.9445843046363391
+1663,Nebraska,Buffalo County,19.551943172085398
+1664,Nebraska,Burt County,5.12723303791357
+1665,Nebraska,Butler County,5.32515098283345
+1666,Nebraska,Cass County,17.8048770287589
+1667,Nebraska,Cedar County,4.445499237907231
+1668,Nebraska,Chase County,1.61189125278363
+1669,Nebraska,Cherry County,0.37507607796353704
+1670,Nebraska,Cheyenne County,3.17973873678606
+1671,Nebraska,Clay County,4.20449580583597
+1672,Nebraska,Colfax County,10.0922905170012
+1673,Nebraska,Cuming County,6.08465230596053
+1674,Nebraska,Custer County,1.6235038354180802
+1675,Nebraska,Dakota County,29.684874810546
+1676,Nebraska,Dawes County,2.4595814214663596
+1677,Nebraska,Dawson County,9.072036210836641
+1678,Nebraska,Deuel County,1.6625571309141698
+1679,Nebraska,Dixon County,4.65972492161369
+1680,Nebraska,Dodge County,26.770648439488696
+1681,Nebraska,Douglas County,656.4846394941179
+1682,Nebraska,Dundy County,0.849301948379989
+1683,Nebraska,Fillmore County,3.7404305372710898
+1684,Nebraska,Franklin County,2.01561550842734
+1685,Nebraska,Frontier County,1.03356072085152
+1686,Nebraska,Furnas County,2.56960606739551
+1687,Nebraska,Gage County,9.79242862750191
+1688,Nebraska,Garden County,0.42109229375449797
+1689,Nebraska,Garfield County,1.3393840951355902
+1690,Nebraska,Gosper County,1.6981058721177802
+1691,Nebraska,Grant County,0.356844403233345
+1692,Nebraska,Greeley County,1.63300795150737
+1693,Nebraska,Hall County,43.347463510202296
+1694,Nebraska,Hamilton County,6.5393235413221396
+1695,Nebraska,Harlan County,2.3983738087992204
+1696,Nebraska,Hayes County,0.5106070038991329
+1697,Nebraska,Hitchcock County,1.5461651945311299
+1698,Nebraska,Holt County,1.63970399411138
+1699,Nebraska,Hooker County,0.369954721669927
+1700,Nebraska,Howard County,4.34361427159064
+1701,Nebraska,Jefferson County,4.86749085015327
+1702,Nebraska,Johnson County,5.33560115033384
+1703,Nebraska,Kearney County,4.90029067362028
+1704,Nebraska,Keith County,2.94559231852661
+1705,Nebraska,Keya Paha County,0.39555350592691896
+1706,Nebraska,Kimball County,1.48746439864802
+1707,Nebraska,Knox County,2.9468558549843995
+1708,Nebraska,Lancaster County,142.947394477437
+1709,Nebraska,Lincoln County,5.33543314668161
+1710,Nebraska,Logan County,0.599457131216018
+1711,Nebraska,Loup County,0.40081844495446295
+1712,Nebraska,McPherson County,0.204069378950085
+1713,Nebraska,Madison County,23.710043163720897
+1714,Nebraska,Merrick County,6.200975824590991
+1715,Nebraska,Morrill County,1.3127347635525901
+1716,Nebraska,Nance County,3.1071153203988997
+1717,Nebraska,Nemaha County,6.638229442041269
+1718,Nebraska,Nuckolls County,2.8698109035007406
+1719,Nebraska,Otoe County,9.968883881170608
+1720,Nebraska,Pawnee County,2.3968224754794196
+1721,Nebraska,Perkins County,1.27063746410747
+1722,Nebraska,Phelps County,6.523378493142401
+1723,Nebraska,Pierce County,4.82047882841994
+1724,Nebraska,Platte County,18.9373963709792
+1725,Nebraska,Polk County,4.62869233044292
+1726,Nebraska,Red Willow County,5.8189487503988495
+1727,Nebraska,Richardson County,5.60359394491297
+1728,Nebraska,Rock County,0.516950977246272
+1729,Nebraska,Saline County,9.609820963688438
+1730,Nebraska,Sarpy County,289.14989480223204
+1731,Nebraska,Saunders County,10.819062760638401
+1732,Nebraska,Scotts Bluff County,18.931330878262898
+1733,Nebraska,Seward County,11.5723311541851
+1734,Nebraska,Sheridan County,0.8278950937455111
+1735,Nebraska,Sherman County,2.07575732093524
+1736,Nebraska,Sioux County,0.23651505080255603
+1737,Nebraska,Stanton County,5.41038032263963
+1738,Nebraska,Thayer County,3.43033265513656
+1739,Nebraska,Thomas County,0.34932772191334
+1740,Nebraska,Thurston County,7.00427630982834
+1741,Nebraska,Valley County,2.8707299048874404
+1742,Nebraska,Washington County,20.0191076089956
+1743,Nebraska,Wayne County,8.165474762622301
+1744,Nebraska,Webster County,2.39822492994331
+1745,Nebraska,Wheeler County,0.5517823336299991
+1746,Nebraska,York County,9.30608276349161
+1747,Nevada,Churchill County,1.88016907180365
+1748,Nevada,Clark County,104.77736238478901
+1749,Nevada,Douglas County,26.0193516637678
+1750,Nevada,Elko County,1.1750465208095802
+1751,Nevada,Esmeralda County,0.105744821409066
+1752,Nevada,Eureka County,0.169210084482198
+1753,Nevada,Humboldt County,0.676985020197229
+1754,Nevada,Lander County,0.40409748685421004
+1755,Nevada,Lincoln County,0.187869851263538
+1756,Nevada,Lyon County,10.2553006223409
+1757,Nevada,Mineral County,0.45762186947193506
+1758,Nevada,Nye County,0.9280978679046691
+1759,Nevada,Pershing County,0.42284171770969897
+1760,Nevada,Storey County,5.76438580987713
+1761,Nevada,Washoe County,27.6022977726726
+1762,Nevada,White Pine County,0.423622182525409
+1763,Nevada,Carson City,145.37215134625902
+1764,New Hampshire,Belknap County,58.26447250631661
+1765,New Hampshire,Carroll County,19.821742900363397
+1766,New Hampshire,Cheshire County,41.6654089727979
+1767,New Hampshire,Coos County,6.89299389344942
+1768,New Hampshire,Grafton County,20.2951261468896
+1769,New Hampshire,Hillsborough County,181.07708049952598
+1770,New Hampshire,Merrimack County,61.855704143937
+1771,New Hampshire,Rockingham County,169.417981016389
+1772,New Hampshire,Strafford County,134.70838771271798
+1773,New Hampshire,Sullivan County,30.9754478164126
+1774,New Jersey,Atlantic County,186.644512578803
+1775,New Jersey,Bergen County,1542.51463078774
+1776,New Jersey,Burlington County,215.610717844953
+1777,New Jersey,Camden County,885.001303194233
+1778,New Jersey,Cape May County,143.851131841752
+1779,New Jersey,Cumberland County,122.53390207734199
+1780,New Jersey,Essex County,2430.06238473315
+1781,New Jersey,Gloucester County,348.783328002467
+1782,New Jersey,Hudson County,5589.05694996684
+1783,New Jersey,Hunterdon County,112.855259073167
+1784,New Jersey,Mercer County,634.394958878231
+1785,New Jersey,Middlesex County,1032.24836604565
+1786,New Jersey,Monmouth County,514.106567301996
+1787,New Jersey,Morris County,414.453485239917
+1788,New Jersey,Ocean County,363.721800368882
+1789,New Jersey,Passaic County,1046.23333809151
+1790,New Jersey,Salem County,73.6916046347258
+1791,New Jersey,Somerset County,422.319081502863
+1792,New Jersey,Sussex County,105.91748959081998
+1793,New Jersey,Union County,2077.9430593196
+1794,New Jersey,Warren County,115.107623911917
+1795,New Mexico,Bernalillo County,225.323559582085
+1796,New Mexico,Catron County,0.197339545334343
+1797,New Mexico,Chaves County,4.16568365806523
+1798,New Mexico,Cibola County,2.2943392541490297
+1799,New Mexico,Colfax County,1.2691729364479298
+1800,New Mexico,Curry County,13.790562474681801
+1801,New Mexico,De Baca County,0.34237357552075104
+1802,New Mexico,Doña Ana County,21.832625115812696
+1803,New Mexico,Eddy County,5.30993233632184
+1804,New Mexico,Grant County,2.7351427146915
+1805,New Mexico,Guadalupe County,0.558424840099128
+1806,New Mexico,Harding County,0.0833793050914616
+1807,New Mexico,Hidalgo County,0.490812579485854
+1808,New Mexico,Lea County,6.165546328829841
+1809,New Mexico,Lincoln County,1.55699925634728
+1810,New Mexico,Los Alamos County,64.90186052695539
+1811,New Mexico,Luna County,3.1593977180442203
+1812,New Mexico,McKinley County,5.160303396250249
+1813,New Mexico,Mora County,0.914618966858049
+1814,New Mexico,Otero County,3.83879753290973
+1815,New Mexico,Quay County,1.1248990844406201
+1816,New Mexico,Rio Arriba County,2.589464260407
+1817,New Mexico,Roosevelt County,3.0175638902858
+1818,New Mexico,Sandoval County,14.649487216022901
+1819,New Mexico,San Juan County,8.919493130528199
+1820,New Mexico,San Miguel County,2.29248222295196
+1821,New Mexico,Santa Fe County,30.1017089438977
+1822,New Mexico,Sierra County,1.0282338731565
+1823,New Mexico,Socorro County,0.9875647207968291
+1824,New Mexico,Taos County,5.765657729665951
+1825,New Mexico,Torrance County,1.7999614503081398
+1826,New Mexico,Union County,0.421424885932035
+1827,New Mexico,Valencia County,27.4918596066579
+1828,New York,Albany County,227.02996827927
+1829,New York,Allegany County,17.6385883759066
+1830,New York,Bronx County,13202.5153048954
+1831,New York,Broome County,106.34362129215599
+1832,New York,Cattaraugus County,22.925578007210603
+1833,New York,Cayuga County,43.47276280170279
+1834,New York,Chautauqua County,47.2168675892309
+1835,New York,Chemung County,81.26735420914609
+1836,New York,Chenango County,20.8901345708223
+1837,New York,Clinton County,30.059847469412198
+1838,New York,Columbia County,37.0605209147466
+1839,New York,Cortland County,37.2522156947986
+1840,New York,Delaware County,12.1798207601281
+1841,New York,Dutchess County,142.617335504333
+1842,New York,Erie County,340.609971003819
+1843,New York,Essex County,8.124182895230241
+1844,New York,Franklin County,12.0133370232406
+1845,New York,Fulton County,41.8808819984544
+1846,New York,Genesee County,45.5173396120714
+1847,New York,Greene County,28.408716452386304
+1848,New York,Hamilton County,1.02855627642957
+1849,New York,Herkimer County,17.097454126303802
+1850,New York,Jefferson County,34.8299627651909
+1851,New York,Kings County,14475.0254388117
+1852,New York,Lewis County,8.09346087624435
+1853,New York,Livingston County,39.0568321228063
+1854,New York,Madison County,42.0726108242752
+1855,New York,Monroe County,437.46040770619
+1856,New York,Montgomery County,47.33987509695871
+1857,New York,Nassau County,1840.4439840676898
+1858,New York,New York County,27819.8048012476
+1859,New York,Niagara County,156.483123086658
+1860,New York,Oneida County,73.49927817139879
+1861,New York,Onondaga County,230.27736224804798
+1862,New York,Ontario County,65.62805041287949
+1863,New York,Orange County,179.774078339202
+1864,New York,Orleans County,40.631880038727495
+1865,New York,Oswego County,48.3229962298602
+1866,New York,Otsego County,23.220227225194396
+1867,New York,Putnam County,166.07824058063102
+1868,New York,Queens County,8158.437153133059
+1869,New York,Rensselaer County,94.34614319767799
+1870,New York,Richmond County,3182.4693231514198
+1871,New York,Rockland County,720.5880090407269
+1872,New York,St. Lawrence County,15.788105611587902
+1873,New York,Saratoga County,108.38422227914499
+1874,New York,Schenectady County,292.309965598494
+1875,New York,Schoharie County,19.474654153638
+1876,New York,Schuyler County,21.1569680947136
+1877,New York,Seneca County,41.283218351344296
+1878,New York,Steuben County,26.9129173214039
+1879,New York,Suffolk County,630.068153353716
+1880,New York,Sullivan County,29.994850493830103
+1881,New York,Tioga County,36.5136992174151
+1882,New York,Tompkins County,83.75559011845459
+1883,New York,Ulster County,61.5789541709678
+1884,New York,Warren County,28.7068420833038
+1885,New York,Washington County,28.7209593371976
+1886,New York,Wayne County,58.0953851283472
+1887,New York,Westchester County,868.763066558485
+1888,New York,Wyoming County,26.4229817375352
+1889,New York,Yates County,28.5560729556019
+1890,North Carolina,Alamance County,146.419511656808
+1891,North Carolina,Alexander County,55.125194367211705
+1892,North Carolina,Alleghany County,18.074422691400798
+1893,North Carolina,Anson County,18.384600030883
+1894,North Carolina,Ashe County,24.3309623025848
+1895,North Carolina,Avery County,27.319609357778397
+1896,North Carolina,Beaufort County,21.924534984850002
+1897,North Carolina,Bertie County,10.847892889138201
+1898,North Carolina,Bladen County,14.9071817006354
+1899,North Carolina,Brunswick County,57.6797613439357
+1900,North Carolina,Buncombe County,149.662506090872
+1901,North Carolina,Burke County,68.4225402243607
+1902,North Carolina,Cabarrus County,215.313756332703
+1903,North Carolina,Caldwell County,66.91171791617509
+1904,North Carolina,Camden County,16.7837129422984
+1905,North Carolina,Carteret County,52.422756044479
+1906,North Carolina,Caswell County,20.646410727196102
+1907,North Carolina,Catawba County,150.766073781543
+1908,North Carolina,Chatham County,39.527301860128
+1909,North Carolina,Cherokee County,23.4507535709125
+1910,North Carolina,Chowan County,31.765736963565697
+1911,North Carolina,Clay County,19.419742197920602
+1912,North Carolina,Cleveland County,80.811658964755
+1913,North Carolina,Columbus County,23.168605643361698
+1914,North Carolina,Craven County,56.326585997887
+1915,North Carolina,Cumberland County,196.497859730551
+1916,North Carolina,Currituck County,38.0238775623596
+1917,North Carolina,Dare County,36.0092919105878
+1918,North Carolina,Davidson County,114.931699340305
+1919,North Carolina,Davie County,61.483133059810804
+1920,North Carolina,Duplin County,27.9893416461902
+1921,North Carolina,Durham County,413.06619308612
+1922,North Carolina,Edgecombe County,40.740504768101204
+1923,North Carolina,Forsyth County,351.81840900010695
+1924,North Carolina,Franklin County,50.9532015099171
+1925,North Carolina,Gaston County,235.08340953332902
+1926,North Carolina,Gates County,13.1072768685675
+1927,North Carolina,Graham County,11.315996564502099
+1928,North Carolina,Granville County,42.7288844667276
+1929,North Carolina,Greene County,30.408868970127603
+1930,North Carolina,Guilford County,312.98833028920797
+1931,North Carolina,Halifax County,27.6009041605302
+1932,North Carolina,Harnett County,84.588975370979
+1933,North Carolina,Haywood County,42.151368754817
+1934,North Carolina,Henderson County,117.63824081995001
+1935,North Carolina,Hertford County,26.405686951243602
+1936,North Carolina,Hoke County,52.6909917661792
+1937,North Carolina,Hyde County,3.4005168802052004
+1938,North Carolina,Iredell County,116.01054868167499
+1939,North Carolina,Jackson County,33.215338259959196
+1940,North Carolina,Johnston County,93.2873152867288
+1941,North Carolina,Jones County,7.94127332458665
+1942,North Carolina,Lee County,91.0147226202465
+1943,North Carolina,Lenoir County,55.3650714833485
+1944,North Carolina,Lincoln County,106.28856813899901
+1945,North Carolina,McDowell County,39.5874415520614
+1946,North Carolina,Macon County,25.7683988640691
+1947,North Carolina,Madison County,18.3813154925015
+1948,North Carolina,Martin County,19.5020000597867
+1949,North Carolina,Mecklenburg County,777.4906790204649
+1950,North Carolina,Mitchell County,26.245968822490397
+1951,North Carolina,Montgomery County,21.474539034621
+1952,North Carolina,Moore County,52.9220807721414
+1953,North Carolina,Nash County,67.1574810739487
+1954,North Carolina,New Hanover County,450.441761812079
+1955,North Carolina,Northampton County,14.523368936291401
+1956,North Carolina,Onslow County,98.26201274325321
+1957,North Carolina,Orange County,138.828001863802
+1958,North Carolina,Pamlico County,14.6201718871648
+1959,North Carolina,Pasquotank County,67.1849808371005
+1960,North Carolina,Pender County,26.1538678361341
+1961,North Carolina,Perquimans County,21.0264128004752
+1962,North Carolina,Person County,38.680635135458104
+1963,North Carolina,Pitt County,104.977444524324
+1964,North Carolina,Polk County,33.232277839282496
+1965,North Carolina,Randolph County,70.5548752774753
+1966,North Carolina,Richmond County,36.8322533514693
+1967,North Carolina,Robeson County,54.3898502965123
+1968,North Carolina,Rockingham County,62.3011904217537
+1969,North Carolina,Rowan County,105.38426973856501
+1970,North Carolina,Rutherford County,45.430576320667896
+1971,North Carolina,Sampson County,25.950071278980197
+1972,North Carolina,Scotland County,42.660629832262
+1973,North Carolina,Stanly County,59.7183546413079
+1974,North Carolina,Stokes County,39.4732311618611
+1975,North Carolina,Surry County,52.1554812049529
+1976,North Carolina,Swain County,10.4286588652953
+1977,North Carolina,Transylvania County,34.1920020784264
+1978,North Carolina,Tyrrell County,4.069740194336701
+1979,North Carolina,Union County,138.34154055311
+1980,North Carolina,Vance County,68.04566958189429
+1981,North Carolina,Wake County,484.029322859142
+1982,North Carolina,Warren County,18.0248036504099
+1983,North Carolina,Washington County,13.544950672094199
+1984,North Carolina,Watauga County,66.8804341673574
+1985,North Carolina,Wayne County,86.43433211319159
+1986,North Carolina,Wilkes County,35.0313463388409
+1987,North Carolina,Wilson County,85.4358274190614
+1988,North Carolina,Yadkin County,43.418062428554705
+1989,North Carolina,Yancey County,21.821617088247798
+1990,North Dakota,Adams County,0.9191132977881139
+1991,North Dakota,Barnes County,2.8049957801121606
+1992,North Dakota,Benson County,1.9146024971333502
+1993,North Dakota,Billings County,0.31793169913569896
+1994,North Dakota,Bottineau County,1.52480916299402
+1995,North Dakota,Bowman County,1.06170647327122
+1996,North Dakota,Burke County,0.774245881869597
+1997,North Dakota,Burleigh County,22.169415096077103
+1998,North Dakota,Cass County,38.1081885053288
+1999,North Dakota,Cavalier County,0.991599940895769
+2000,North Dakota,Dickey County,1.69595927758403
+2001,North Dakota,Divide County,0.725505176052825
+2002,North Dakota,Dunn County,0.843341808549415
+2003,North Dakota,Eddy County,1.4171630958458798
+2004,North Dakota,Emmons County,0.8572567957924471
+2005,North Dakota,Foster County,1.9990151672535499
+2006,North Dakota,Golden Valley County,0.7255499891170201
+2007,North Dakota,Grand Forks County,18.9276221735599
+2008,North Dakota,Grant County,0.5538515724979439
+2009,North Dakota,Griggs County,1.2343211950297799
+2010,North Dakota,Hettinger County,0.8784494522819071
+2011,North Dakota,Kidder County,0.702954020365038
+2012,North Dakota,LaMoure County,1.38141359058781
+2013,North Dakota,Logan County,0.7494187564321801
+2014,North Dakota,McHenry County,1.22116722755205
+2015,North Dakota,McIntosh County,1.05127793966259
+2016,North Dakota,McKenzie County,1.75338081588635
+2017,North Dakota,McLean County,1.75786114272634
+2018,North Dakota,Mercer County,3.17347502424591
+2019,North Dakota,Morton County,6.1225449161909005
+2020,North Dakota,Mountrail County,2.14744897585294
+2021,North Dakota,Nelson County,1.14834598045695
+2022,North Dakota,Oliver County,0.981672526624634
+2023,North Dakota,Pembina County,2.42147448337267
+2024,North Dakota,Pierce County,1.59603451917106
+2025,North Dakota,Ramsey County,3.7593834350413595
+2026,North Dakota,Ransom County,2.40027492993507
+2027,North Dakota,Renville County,1.09836569079845
+2028,North Dakota,Richland County,4.3801330406787
+2029,North Dakota,Rolette County,6.24338972882285
+2030,North Dakota,Sargent County,1.7463308225588998
+2031,North Dakota,Sheridan County,0.557880790336446
+2032,North Dakota,Sioux County,1.55733283129035
+2033,North Dakota,Slope County,0.22373751697243302
+2034,North Dakota,Stark County,8.93122458269547
+2035,North Dakota,Steele County,1.0354472226554798
+2036,North Dakota,Stutsman County,3.6605656240347004
+2037,North Dakota,Towner County,0.8463995169037959
+2038,North Dakota,Traill County,3.5920372057865397
+2039,North Dakota,Walsh County,3.2540982530479003
+2040,North Dakota,Ward County,13.2409927690675
+2041,North Dakota,Wells County,1.2321821167234799
+2042,North Dakota,Williams County,6.3288616557316795
+2043,Ohio,Adams County,18.435283265761896
+2044,Ohio,Allen County,99.4187048510773
+2045,Ohio,Ashland County,48.81671864266811
+2046,Ohio,Ashtabula County,53.969510513037996
+2047,Ohio,Athens County,50.5494189637301
+2048,Ohio,Auglaize County,44.039767783337204
+2049,Ohio,Belmont County,49.682232630200396
+2050,Ohio,Brown County,34.4162569031064
+2051,Ohio,Butler County,313.01692854751496
+2052,Ohio,Carroll County,26.9835271545014
+2053,Ohio,Champaign County,34.978258511188194
+2054,Ohio,Clark County,131.532624418752
+2055,Ohio,Clermont County,173.546761211324
+2056,Ohio,Clinton County,39.580949189952705
+2057,Ohio,Columbiana County,75.4912065490403
+2058,Ohio,Coshocton County,25.0402023481677
+2059,Ohio,Crawford County,40.3807481048616
+2060,Ohio,Cuyahoga County,1058.8455417909101
+2061,Ohio,Darke County,33.3967624359682
+2062,Ohio,Defiance County,35.920803152486
+2063,Ohio,Delaware County,171.642744547238
+2064,Ohio,Erie County,115.378291813948
+2065,Ohio,Fairfield County,117.045501579965
+2066,Ohio,Fayette County,27.2169304102825
+2067,Ohio,Franklin County,924.8617766095849
+2068,Ohio,Fulton County,40.2866052232372
+2069,Ohio,Gallia County,24.9894714626977
+2070,Ohio,Geauga County,90.6280966440329
+2071,Ohio,Greene County,154.778116514004
+2072,Ohio,Guernsey County,29.0352610741459
+2073,Ohio,Hamilton County,772.343285716782
+2074,Ohio,Hancock County,55.0034762792898
+2075,Ohio,Hardin County,25.8892677212745
+2076,Ohio,Harrison County,14.689559052584
+2077,Ohio,Henry County,25.352182545552303
+2078,Ohio,Highland County,30.0227579025062
+2079,Ohio,Hocking County,26.112686449758897
+2080,Ohio,Holmes County,40.0756258373345
+2081,Ohio,Huron County,45.9219106083933
+2082,Ohio,Jackson County,29.8769355392935
+2083,Ohio,Jefferson County,63.2768752227228
+2084,Ohio,Knox County,44.976214118113795
+2085,Ohio,Lake County,387.418666869148
+2086,Ohio,Lawrence County,51.627258098107006
+2087,Ohio,Licking County,97.47807617823759
+2088,Ohio,Logan County,38.1576236022572
+2089,Ohio,Lorain County,241.08129509919
+2090,Ohio,Lucas County,489.983386240699
+2091,Ohio,Madison County,36.4592338086711
+2092,Ohio,Mahoning County,216.799598646393
+2093,Ohio,Marion County,62.4866796002159
+2094,Ohio,Medina County,162.411533121168
+2095,Ohio,Meigs County,20.7907325672252
+2096,Ohio,Mercer County,34.069635322217
+2097,Ohio,Miami County,99.5387828704605
+2098,Ohio,Monroe County,11.9374632477151
+2099,Ohio,Montgomery County,445.121569410134
+2100,Ohio,Morgan County,13.631412170574999
+2101,Ohio,Morrow County,33.250908106961
+2102,Ohio,Muskingum County,50.0104346438388
+2103,Ohio,Noble County,14.010815954125302
+2104,Ohio,Ottawa County,61.7017232509669
+2105,Ohio,Paulding County,17.4973838295914
+2106,Ohio,Perry County,34.0591478932931
+2107,Ohio,Pickaway County,44.2306063834961
+2108,Ohio,Pike County,24.7420807984543
+2109,Ohio,Portage County,128.840192813669
+2110,Ohio,Preble County,37.5038261852716
+2111,Ohio,Putnam County,27.1799056026972
+2112,Ohio,Richland County,94.59562524502961
+2113,Ohio,Ross County,43.1661499194689
+2114,Ohio,Sandusky County,56.053859028912704
+2115,Ohio,Scioto County,48.3249408274934
+2116,Ohio,Seneca County,38.871129619404
+2117,Ohio,Shelby County,46.21247465281711
+2118,Ohio,Stark County,250.643525700289
+2119,Ohio,Summit County,506.75189970303103
+2120,Ohio,Trumbull County,126.06506729057699
+2121,Ohio,Tuscarawas County,62.9582105518037
+2122,Ohio,Union County,49.7698621862733
+2123,Ohio,Van Wert County,26.687687894366498
+2124,Ohio,Vinton County,12.276250976660002
+2125,Ohio,Warren County,218.01111629409698
+2126,Ohio,Washington County,37.066719339681896
+2127,Ohio,Wayne County,80.8630720650407
+2128,Ohio,Williams County,33.9016693590068
+2129,Ohio,Wood County,81.28457966870609
+2130,Ohio,Wyandot County,20.9788847852032
+2131,Oklahoma,Adair County,14.882666899606098
+2132,Oklahoma,Alfalfa County,2.60994613199965
+2133,Oklahoma,Atoka County,5.491211134910281
+2134,Oklahoma,Beaver County,1.15212295180398
+2135,Oklahoma,Beckham County,9.684911041662401
+2136,Oklahoma,Blaine County,4.00647787837379
+2137,Oklahoma,Bryan County,19.5328713830096
+2138,Oklahoma,Caddo County,8.86577162656269
+2139,Oklahoma,Canadian County,58.868559083503
+2140,Oklahoma,Carter County,22.7318465494414
+2141,Oklahoma,Cherokee County,25.042268586423102
+2142,Oklahoma,Choctaw County,7.46084930977573
+2143,Oklahoma,Cimarron County,0.46063710565308796
+2144,Oklahoma,Cleveland County,198.27198051585302
+2145,Oklahoma,Coal County,4.19817443094779
+2146,Oklahoma,Comanche County,44.2546763206507
+2147,Oklahoma,Cotton County,3.6184061908787797
+2148,Oklahoma,Craig County,7.3497752977738
+2149,Oklahoma,Creek County,28.9159445309776
+2150,Oklahoma,Custer County,11.4051645722199
+2151,Oklahoma,Delaware County,22.0279633067946
+2152,Oklahoma,Dewey County,1.8998295647368202
+2153,Oklahoma,Ellis County,1.2766466520534099
+2154,Oklahoma,Garfield County,22.684834662217302
+2155,Oklahoma,Garvin County,13.393610153477
+2156,Oklahoma,Grady County,19.2024849748002
+2157,Oklahoma,Grant County,1.70431434430551
+2158,Oklahoma,Greer County,3.5891084093667596
+2159,Oklahoma,Harmon County,1.95568775375475
+2160,Oklahoma,Harper County,1.42955819904818
+2161,Oklahoma,Haskell County,8.50792480949737
+2162,Oklahoma,Hughes County,6.45863432690585
+2163,Oklahoma,Jackson County,12.210562515052901
+2164,Oklahoma,Jefferson County,3.1663327134587003
+2165,Oklahoma,Johnston County,6.63038684250686
+2166,Oklahoma,Kay County,18.8425197713252
+2167,Oklahoma,Kingfisher County,6.71464573540278
+2168,Oklahoma,Kiowa County,3.42346210109491
+2169,Oklahoma,Latimer County,5.6120086761600705
+2170,Oklahoma,Le Flore County,12.1249510064788
+2171,Oklahoma,Lincoln County,14.1309667108902
+2172,Oklahoma,Logan County,23.9000738845215
+2173,Oklahoma,Love County,7.4614611643509905
+2174,Oklahoma,McClain County,26.137006992024805
+2175,Oklahoma,McCurtain County,6.87775334269374
+2176,Oklahoma,McIntosh County,12.372198819386
+2177,Oklahoma,Major County,3.12039099742826
+2178,Oklahoma,Marshall County,17.0169428106233
+2179,Oklahoma,Mayes County,24.1423495138957
+2180,Oklahoma,Murray County,12.8676675042311
+2181,Oklahoma,Muskogee County,32.914820090420605
+2182,Oklahoma,Noble County,6.019803976549669
+2183,Oklahoma,Nowata County,7.0856383489941
+2184,Oklahoma,Okfuskee County,7.56201317538887
+2185,Oklahoma,Oklahoma County,425.989527659625
+2186,Oklahoma,Okmulgee County,21.5317510642819
+2187,Oklahoma,Osage County,8.131074757858219
+2188,Oklahoma,Ottawa County,25.885068751447
+2189,Oklahoma,Pawnee County,11.163908639845099
+2190,Oklahoma,Payne County,45.963847540365
+2191,Oklahoma,Pittsburg County,13.1263984740627
+2192,Oklahoma,Pontotoc County,20.5575299337275
+2193,Oklahoma,Pottawatomie County,35.2930702040968
+2194,Oklahoma,Pushmataha County,3.07561437382478
+2195,Oklahoma,Roger Mills County,1.2546029845701698
+2196,Oklahoma,Rogers County,51.89825914972071
+2197,Oklahoma,Seminole County,15.2961410887208
+2198,Oklahoma,Sequoyah County,23.7180228032718
+2199,Oklahoma,Stephens County,19.513909685459
+2200,Oklahoma,Texas County,3.99494895004521
+2201,Oklahoma,Tillman County,3.33078223336982
+2202,Oklahoma,Tulsa County,435.15739777277497
+2203,Oklahoma,Wagoner County,53.5248211667315
+2204,Oklahoma,Washington County,48.3271792394326
+2205,Oklahoma,Washita County,4.39998639144867
+2206,Oklahoma,Woods County,2.73927781550016
+2207,Oklahoma,Woodward County,6.515945639310581
+2208,Oregon,Baker County,2.01157896440143
+2209,Oregon,Benton County,51.340627738584395
+2210,Oregon,Clackamas County,83.75337596947791
+2211,Oregon,Clatsop County,17.9786242773207
+2212,Oregon,Columbia County,29.8332398571
+2213,Oregon,Coos County,15.315037571779001
+2214,Oregon,Crook County,2.8951551137502904
+2215,Oregon,Curry County,5.33658846624705
+2216,Oregon,Deschutes County,23.112911079843396
+2217,Oregon,Douglas County,8.30553484540074
+2218,Oregon,Gilliam County,0.611176039475829
+2219,Oregon,Grant County,0.612521990898525
+2220,Oregon,Harney County,0.27537259706705397
+2221,Oregon,Hood River County,17.10615390385
+2222,Oregon,Jackson County,29.7238107554776
+2223,Oregon,Jefferson County,5.013675054887759
+2224,Oregon,Josephine County,20.1412164370712
+2225,Oregon,Klamath County,4.30818293883641
+2226,Oregon,Lake County,0.37207866296494
+2227,Oregon,Lane County,31.257070265966203
+2228,Oregon,Lincoln County,18.8565598845291
+2229,Oregon,Linn County,20.742324478479
+2230,Oregon,Malheur County,1.18829076456978
+2231,Oregon,Marion County,109.743370987885
+2232,Oregon,Morrow County,2.13251582971064
+2233,Oregon,Multnomah County,715.275377496115
+2234,Oregon,Polk County,42.4323644554184
+2235,Oregon,Sherman County,0.752407833045395
+2236,Oregon,Tillamook County,9.13305677111626
+2237,Oregon,Umatilla County,9.233697886029132
+2238,Oregon,Union County,4.93365839606412
+2239,Oregon,Wallowa County,0.8497962569904008
+2240,Oregon,Wasco County,4.1941843233916405
+2241,Oregon,Washington County,310.164458597462
+2242,Oregon,Wheeler County,0.32084779272761
+2243,Oregon,Yamhill County,55.9927328487135
+2244,Pennsylvania,Adams County,75.93345667093641
+2245,Pennsylvania,Allegheny County,648.103860366394
+2246,Pennsylvania,Armstrong County,39.2090970831933
+2247,Pennsylvania,Beaver County,148.232833056137
+2248,Pennsylvania,Bedford County,18.5407191911067
+2249,Pennsylvania,Berks County,187.846826301422
+2250,Pennsylvania,Blair County,90.9386563095006
+2251,Pennsylvania,Bradford County,20.6285944951135
+2252,Pennsylvania,Bucks County,400.118508718221
+2253,Pennsylvania,Butler County,91.3441609024843
+2254,Pennsylvania,Cambria County,75.4691612766929
+2255,Pennsylvania,Cameron County,4.56621290223154
+2256,Pennsylvania,Carbon County,64.7089589945943
+2257,Pennsylvania,Centre County,56.1632729042276
+2258,Pennsylvania,Chester County,266.047417050911
+2259,Pennsylvania,Clarion County,24.950535035746697
+2260,Pennsylvania,Clearfield County,27.0569053425368
+2261,Pennsylvania,Clinton County,16.989667786191
+2262,Pennsylvania,Columbia County,52.923468292389295
+2263,Pennsylvania,Crawford County,32.8638196141633
+2264,Pennsylvania,Cumberland County,175.132053456229
+2265,Pennsylvania,Dauphin County,201.923214480524
+2266,Pennsylvania,Delaware County,1183.66103608761
+2267,Pennsylvania,Elk County,14.283740924665501
+2268,Pennsylvania,Erie County,133.344391732901
+2269,Pennsylvania,Fayette County,64.62681404536839
+2270,Pennsylvania,Forest County,6.6427264108076205
+2271,Pennsylvania,Franklin County,76.873624129824
+2272,Pennsylvania,Fulton County,12.800321351776303
+2273,Pennsylvania,Greene County,24.900432642939
+2274,Pennsylvania,Huntingdon County,20.0504347738422
+2275,Pennsylvania,Indiana County,40.0137161914445
+2276,Pennsylvania,Jefferson County,26.0884516549451
+2277,Pennsylvania,Juniata County,24.232609005239603
+2278,Pennsylvania,Lackawanna County,177.959175346806
+2279,Pennsylvania,Lancaster County,220.218668100779
+2280,Pennsylvania,Lawrence County,94.19382999195992
+2281,Pennsylvania,Lebanon County,147.986510524909
+2282,Pennsylvania,Lehigh County,405.574784136813
+2283,Pennsylvania,Luzerne County,137.85179535632
+2284,Pennsylvania,Lycoming County,36.0913484129061
+2285,Pennsylvania,McKean County,16.4845740239881
+2286,Pennsylvania,Mercer County,64.65631438379759
+2287,Pennsylvania,Mifflin County,43.5486579294043
+2288,Pennsylvania,Monroe County,106.37825091639
+2289,Pennsylvania,Montgomery County,656.591561104439
+2290,Pennsylvania,Montour County,54.2323642296808
+2291,Pennsylvania,Northampton County,315.21310928389704
+2292,Pennsylvania,Northumberland County,77.8313122604817
+2293,Pennsylvania,Perry County,32.1541603477523
+2294,Pennsylvania,Philadelphia County,4531.77182152852
+2295,Pennsylvania,Pike County,39.320092362725504
+2296,Pennsylvania,Potter County,6.04760523876994
+2297,Pennsylvania,Schuylkill County,71.1850314677509
+2298,Pennsylvania,Snyder County,47.520707994618206
+2299,Pennsylvania,Somerset County,26.934956364873
+2300,Pennsylvania,Sullivan County,5.3006061171441905
+2301,Pennsylvania,Susquehanna County,19.382566460591
+2302,Pennsylvania,Tioga County,14.0393599425766
+2303,Pennsylvania,Union County,55.1297894540745
+2304,Pennsylvania,Venango County,29.991050125746302
+2305,Pennsylvania,Warren County,17.4832329507541
+2306,Pennsylvania,Washington County,93.5068812555377
+2307,Pennsylvania,Wayne County,27.423727921677397
+2308,Pennsylvania,Westmoreland County,133.234220722871
+2309,Pennsylvania,Wyoming County,26.8100777908479
+2310,Pennsylvania,York County,189.597015841507
+2311,Rhode Island,Bristol County,782.228773250451
+2312,Rhode Island,Kent County,375.34310636736603
+2313,Rhode Island,Newport County,313.122048563208
+2314,Rhode Island,Providence County,598.297855034495
+2315,Rhode Island,Washington County,148.027610708148
+2316,South Carolina,Abbeville County,19.3724049172008
+2317,South Carolina,Aiken County,60.199841033340995
+2318,South Carolina,Allendale County,8.71753759395985
+2319,South Carolina,Anderson County,106.008134260326
+2320,South Carolina,Bamberg County,14.3303725079137
+2321,South Carolina,Barnwell County,15.1919149227249
+2322,South Carolina,Beaufort County,122.40139523679
+2323,South Carolina,Berkeley County,73.1423837106105
+2324,South Carolina,Calhoun County,14.9040815935145
+2325,South Carolina,Charleston County,166.025133721354
+2326,South Carolina,Cherokee County,55.6681803360999
+2327,South Carolina,Chester County,21.4948757994146
+2328,South Carolina,Chesterfield County,22.2415239405079
+2329,South Carolina,Clarendon County,21.6390440169968
+2330,South Carolina,Colleton County,13.7296337340258
+2331,South Carolina,Darlington County,46.3161480626616
+2332,South Carolina,Dillon County,29.425794224953
+2333,South Carolina,Dorchester County,105.574200874212
+2334,South Carolina,Edgefield County,20.6397465269808
+2335,South Carolina,Fairfield County,12.7778399651034
+2336,South Carolina,Florence County,66.8307417704068
+2337,South Carolina,Georgetown County,29.2250338775805
+2338,South Carolina,Greenville County,245.119501334035
+2339,South Carolina,Greenwood County,59.6604195217723
+2340,South Carolina,Hampton County,13.6569134622091
+2341,South Carolina,Horry County,109.29518439484801
+2342,South Carolina,Jasper County,16.4421227158772
+2343,South Carolina,Kershaw County,34.206334773398
+2344,South Carolina,Lancaster County,62.968313692125705
+2345,South Carolina,Laurens County,36.0863221371645
+2346,South Carolina,Lee County,16.5723435408939
+2347,South Carolina,Lexington County,158.152762127915
+2348,South Carolina,McCormick County,10.3274764626023
+2349,South Carolina,Marion County,24.9074196176618
+2350,South Carolina,Marlboro County,21.8293627797478
+2351,South Carolina,Newberry County,23.3288841949795
+2352,South Carolina,Oconee County,47.2707545187344
+2353,South Carolina,Orangeburg County,30.8696626352344
+2354,South Carolina,Pickens County,95.3732779961536
+2355,South Carolina,Richland County,208.144127891068
+2356,South Carolina,Saluda County,17.305211508989903
+2357,South Carolina,Spartanburg County,144.44936592182302
+2358,South Carolina,Sumter County,62.11476628188439
+2359,South Carolina,Union County,20.7584834464146
+2360,South Carolina,Williamsburg County,13.1408534980131
+2361,South Carolina,York County,146.710520773669
+2362,South Dakota,Aurora County,1.50362182714036
+2363,South Dakota,Beadle County,5.63612572567925
+2364,South Dakota,Bennett County,1.12019789037209
+2365,South Dakota,Bon Homme County,4.774640709571219
+2366,South Dakota,Brookings County,16.687232494364
+2367,South Dakota,Brown County,8.75419871875527
+2368,South Dakota,Brule County,2.4831762224288503
+2369,South Dakota,Buffalo County,1.68149983908178
+2370,South Dakota,Butte County,1.7463694892512398
+2371,South Dakota,Campbell County,0.7551780338293008
+2372,South Dakota,Charles Mix County,3.28726890060312
+2373,South Dakota,Clark County,1.48093977270466
+2374,South Dakota,Clay County,13.0487207889216
+2375,South Dakota,Codington County,15.7190125492526
+2376,South Dakota,Corson County,0.651608542102345
+2377,South Dakota,Custer County,2.12599040362154
+2378,South Dakota,Davison County,17.638274580427698
+2379,South Dakota,Day County,2.06698081358846
+2380,South Dakota,Deuel County,2.66974828283275
+2381,South Dakota,Dewey County,0.969075244086619
+2382,South Dakota,Douglas County,2.6199106128345897
+2383,South Dakota,Edmunds County,1.35103791250186
+2384,South Dakota,Fall River County,1.5032313926033203
+2385,South Dakota,Faulk County,0.9132493418070992
+2386,South Dakota,Grant County,4.08909724873123
+2387,South Dakota,Gregory County,1.59812378304928
+2388,South Dakota,Haakon County,0.4439911499998979
+2389,South Dakota,Hamlin County,4.567135658773781
+2390,South Dakota,Hand County,0.887149679198345
+2391,South Dakota,Hanson County,3.01801466725632
+2392,South Dakota,Harding County,0.18946912357941698
+2393,South Dakota,Hughes County,9.172911312057142
+2394,South Dakota,Hutchinson County,3.47391293999284
+2395,South Dakota,Hyde County,0.597123449079792
+2396,South Dakota,Jackson County,0.6809001065140091
+2397,South Dakota,Jerauld County,1.4889805947316102
+2398,South Dakota,Jones County,0.292660933061515
+2399,South Dakota,Kingsbury County,2.30435528070382
+2400,South Dakota,Lake County,8.62484113725465
+2401,South Dakota,Lawrence County,12.177822921506698
+2402,South Dakota,Lincoln County,36.727298428732794
+2403,South Dakota,Lyman County,0.909680872372643
+2404,South Dakota,McCook County,3.7056589538814197
+2405,South Dakota,McPherson County,0.803018360139433
+2406,South Dakota,Marshall County,2.25500783202226
+2407,South Dakota,Meade County,3.0506001404531498
+2408,South Dakota,Mellette County,0.606918477251169
+2409,South Dakota,Miner County,1.50941189725514
+2410,South Dakota,Minnehaha County,89.36676990151079
+2411,South Dakota,Moody County,4.8364668458335505
+2412,South Dakota,Oglala Lakota County,2.64366227088014
+2413,South Dakota,Pennington County,15.197012447947099
+2414,South Dakota,Perkins County,0.39101469325745397
+2415,South Dakota,Potter County,1.042891943736
+2416,South Dakota,Roberts County,3.60661705332946
+2417,South Dakota,Sanborn County,1.61970078803408
+2418,South Dakota,Spink County,1.6802201398696202
+2419,South Dakota,Stanley County,0.801109688479837
+2420,South Dakota,Sully County,0.510469810015214
+2421,South Dakota,Todd County,2.8211186684624203
+2422,South Dakota,Tripp County,1.30930942199291
+2423,South Dakota,Turner County,5.17085459022913
+2424,South Dakota,Union County,12.7183363428564
+2425,South Dakota,Walworth County,3.00211248575935
+2426,South Dakota,Yankton County,16.828983223532802
+2427,South Dakota,Ziebach County,0.553981828820771
+2428,Tennessee,Anderson County,86.7633558649439
+2429,Tennessee,Bedford County,38.768430222786606
+2430,Tennessee,Benton County,15.776769336186499
+2431,Tennessee,Bledsoe County,13.871844439795101
+2432,Tennessee,Blount County,88.7448476256881
+2433,Tennessee,Bradley County,122.79310956713002
+2434,Tennessee,Campbell County,31.912589850802604
+2435,Tennessee,Cannon County,20.314177003372
+2436,Tennessee,Carroll County,18.1003486767496
+2437,Tennessee,Carter County,63.801191707738106
+2438,Tennessee,Cheatham County,50.969366205894296
+2439,Tennessee,Chester County,23.174001823787197
+2440,Tennessee,Claiborne County,28.085236550981
+2441,Tennessee,Clay County,12.545984313464901
+2442,Tennessee,Cocke County,31.3045146637337
+2443,Tennessee,Coffee County,49.082212181558106
+2444,Tennessee,Crockett County,21.0812815702333
+2445,Tennessee,Cumberland County,33.242058651540106
+2446,Tennessee,Davidson County,524.539773262797
+2447,Tennessee,Decatur County,13.5104352217118
+2448,Tennessee,DeKalb County,24.8631786925392
+2449,Tennessee,Dickson County,40.973159769101294
+2450,Tennessee,Dyer County,28.3177147789863
+2451,Tennessee,Fayette County,21.744758724809397
+2452,Tennessee,Fentress County,13.933744317874801
+2453,Tennessee,Franklin County,28.905743312164102
+2454,Tennessee,Gibson County,31.5001698812009
+2455,Tennessee,Giles County,18.4332370627134
+2456,Tennessee,Grainger County,31.667126548440002
+2457,Tennessee,Greene County,42.6142390526678
+2458,Tennessee,Grundy County,14.2799267507778
+2459,Tennessee,Hamblen County,152.678963686863
+2460,Tennessee,Hamilton County,254.543753292287
+2461,Tennessee,Hancock County,11.435942690641001
+2462,Tennessee,Hardeman County,14.7804334348632
+2463,Tennessee,Hardin County,17.2349792683249
+2464,Tennessee,Hawkins County,44.71150082063151
+2465,Tennessee,Haywood County,12.876414164189999
+2466,Tennessee,Henderson County,20.6850709735049
+2467,Tennessee,Henry County,22.182444732972197
+2468,Tennessee,Hickman County,15.556714120374998
+2469,Tennessee,Houston County,15.7607149044859
+2470,Tennessee,Humphreys County,13.325392229825
+2471,Tennessee,Jackson County,14.5302113944224
+2472,Tennessee,Jefferson County,74.779657225567
+2473,Tennessee,Johnson County,23.0142411578329
+2474,Tennessee,Knox County,346.49447171387703
+2475,Tennessee,Lake County,17.5275471510814
+2476,Tennessee,Lauderdale County,21.512788692286
+2477,Tennessee,Lawrence County,26.863347437288297
+2478,Tennessee,Lewis County,16.3643017684279
+2479,Tennessee,Lincoln County,22.8211984884066
+2480,Tennessee,Loudon County,86.91306118149879
+2481,Tennessee,McMinn County,47.3726473409665
+2482,Tennessee,McNairy County,17.7691233891399
+2483,Tennessee,Macon County,29.5248883922889
+2484,Tennessee,Madison County,67.6983327418837
+2485,Tennessee,Marion County,22.020688131571497
+2486,Tennessee,Marshall County,33.1834591485076
+2487,Tennessee,Maury County,56.5332527325587
+2488,Tennessee,Meigs County,23.668490784047297
+2489,Tennessee,Monroe County,27.863367046687497
+2490,Tennessee,Montgomery County,140.63498731603997
+2491,Tennessee,Moore County,18.889411426884998
+2492,Tennessee,Morgan County,15.9681798156055
+2493,Tennessee,Obion County,21.6276877777983
+2494,Tennessee,Overton County,19.5988047707567
+2495,Tennessee,Perry County,7.365577626480781
+2496,Tennessee,Pickett County,12.0536405768412
+2497,Tennessee,Polk County,14.909156886645
+2498,Tennessee,Putnam County,73.58061449673909
+2499,Tennessee,Rhea County,39.9442725734969
+2500,Tennessee,Roane County,56.6175147284181
+2501,Tennessee,Robertson County,56.21051169300839
+2502,Tennessee,Rutherford County,191.494753251823
+2503,Tennessee,Scott County,15.9242487851872
+2504,Tennessee,Sequatchie County,21.392755493087
+2505,Tennessee,Sevier County,62.746624718284295
+2506,Tennessee,Shelby County,473.797280554142
+2507,Tennessee,Smith County,23.9035737353753
+2508,Tennessee,Stewart County,11.169665551115699
+2509,Tennessee,Sullivan County,146.38528564405598
+2510,Tennessee,Sumner County,130.892407452634
+2511,Tennessee,Tipton County,51.7543991694122
+2512,Tennessee,Trousdale County,32.3255357104073
+2513,Tennessee,Unicoi County,36.8953964049275
+2514,Tennessee,Union County,33.3180757741739
+2515,Tennessee,Van Buren County,8.0548769047964
+2516,Tennessee,Warren County,36.0996867246984
+2517,Tennessee,Washington County,150.253192979392
+2518,Tennessee,Wayne County,8.756484006394519
+2519,Tennessee,Weakley County,22.3709822836663
+2520,Tennessee,White County,27.2449927032159
+2521,Tennessee,Williamson County,144.836740764805
+2522,Tennessee,Wilson County,89.6905163232464
+2523,Texas,Anderson County,21.0242802921194
+2524,Texas,Andrews County,4.5841745345917495
+2525,Texas,Angelina County,42.3991209138263
+2526,Texas,Aransas County,37.933247649505795
+2527,Texas,Archer County,3.75677340335261
+2528,Texas,Armstrong County,0.813732655929211
+2529,Texas,Atascosa County,15.4587640055162
+2530,Texas,Austin County,17.6570099743533
+2531,Texas,Bailey County,3.3111605906032504
+2532,Texas,Bandera County,10.623005857143099
+2533,Texas,Bastrop County,35.897264143593794
+2534,Texas,Baylor County,1.59829829754419
+2535,Texas,Bee County,14.3393560108235
+2536,Texas,Bell County,125.69149114946501
+2537,Texas,Bexar County,599.558110948405
+2538,Texas,Blanco County,6.14007401978722
+2539,Texas,Borden County,0.286099512346479
+2540,Texas,Bosque County,7.118088885250749
+2541,Texas,Bowie County,40.9476980111451
+2542,Texas,Brazoria County,100.32982841226
+2543,Texas,Brazos County,144.54137209844
+2544,Texas,Brewster County,0.5754292507513089
+2545,Texas,Briscoe County,0.6632372032254449
+2546,Texas,Brooks County,2.9386761966806096
+2547,Texas,Brown County,15.466941987009802
+2548,Texas,Burleson County,10.4652390537829
+2549,Texas,Burnet County,17.7660642274024
+2550,Texas,Caldwell County,29.317695603122697
+2551,Texas,Calhoun County,16.6122370545004
+2552,Texas,Callahan County,5.911486775320211
+2553,Texas,Cameron County,182.749266849806
+2554,Texas,Camp County,25.260187969746898
+2555,Texas,Carson County,2.5308412448957203
+2556,Texas,Cass County,12.3982855360491
+2557,Texas,Castro County,3.3613911244812598
+2558,Texas,Chambers County,26.051676172616702
+2559,Texas,Cherokee County,19.032014159026502
+2560,Texas,Childress County,4.005643982305299
+2561,Texas,Clay County,3.6835030487769997
+2562,Texas,Cochran County,1.4466086133829599
+2563,Texas,Coke County,1.38705103567844
+2564,Texas,Coleman County,2.5653229293806
+2565,Texas,Collin County,433.407858893581
+2566,Texas,Collingsworth County,1.25948506176896
+2567,Texas,Colorado County,8.45233345948467
+2568,Texas,Comal County,93.2262995097279
+2569,Texas,Comanche County,5.55631287338317
+2570,Texas,Concho County,1.66135905099143
+2571,Texas,Cooke County,17.4648857704713
+2572,Texas,Coryell County,27.663841377470302
+2573,Texas,Cottle County,0.6958352282552929
+2574,Texas,Crane County,2.37985202228651
+2575,Texas,Crockett County,0.49966063085710993
+2576,Texas,Crosby County,2.51382859533624
+2577,Texas,Culberson County,0.226972574940636
+2578,Texas,Dallam County,1.8604734401398302
+2579,Texas,Dallas County,1145.19391461404
+2580,Texas,Dawson County,5.559697452963821
+2581,Texas,Deaf Smith County,4.87495901532138
+2582,Texas,Delta County,7.839840233106071
+2583,Texas,Denton County,354.65787181484103
+2584,Texas,DeWitt County,8.68009123701455
+2585,Texas,Dickens County,0.948851640227678
+2586,Texas,Dimmit County,3.09809237909347
+2587,Texas,Donley County,1.4108525504915699
+2588,Texas,Duval County,2.44451989496542
+2589,Texas,Eastland County,7.6136486394467
+2590,Texas,Ector County,68.0947060855723
+2591,Texas,Edwards County,0.374640418144079
+2592,Texas,Ellis County,69.6713482569525
+2593,Texas,El Paso County,319.210918675678
+2594,Texas,Erath County,14.7863916643485
+2595,Texas,Falls County,8.725653120154849
+2596,Texas,Fannin County,14.8119997667493
+2597,Texas,Fayette County,10.188800853655199
+2598,Texas,Fisher County,1.66776039550199
+2599,Texas,Floyd County,2.2851474161596097
+2600,Texas,Foard County,0.7717696184745542
+2601,Texas,Fort Bend County,331.322640165965
+2602,Texas,Franklin County,14.4982765765992
+2603,Texas,Freestone County,8.66972990583688
+2604,Texas,Frio County,6.6061404521043805
+2605,Texas,Gaines County,5.22242361946982
+2606,Texas,Galveston County,333.273901734218
+2607,Texas,Garza County,2.7174537416261697
+2608,Texas,Gillespie County,9.56245383415092
+2609,Texas,Glasscock County,0.6133251164923671
+2610,Texas,Goliad County,3.4127904808162097
+2611,Texas,Gonzales County,7.48071220954013
+2612,Texas,Gray County,9.45893450265317
+2613,Texas,Grayson County,53.2114786719019
+2614,Texas,Gregg County,174.413694850221
+2615,Texas,Grimes County,13.547238605434199
+2616,Texas,Guadalupe County,84.2158537716774
+2617,Texas,Hale County,13.109748384072402
+2618,Texas,Hall County,1.3433943013972398
+2619,Texas,Hamilton County,3.81938413002264
+2620,Texas,Hansford County,2.3284253892800697
+2621,Texas,Hardeman County,2.19514409896517
+2622,Texas,Hardin County,24.442356156773
+2623,Texas,Harris County,1042.1306507077302
+2624,Texas,Harrison County,28.5922768254501
+2625,Texas,Hartley County,1.52306832765785
+2626,Texas,Haskell County,2.48342975529736
+2627,Texas,Hays County,116.25994639718901
+2628,Texas,Hemphill County,1.7300949473764
+2629,Texas,Henderson County,35.553605913523896
+2630,Texas,Hidalgo County,208.766361446875
+2631,Texas,Hill County,14.2541107811168
+2632,Texas,Hockley County,9.8447590729286
+2633,Texas,Hood County,52.2210578344457
+2634,Texas,Hopkins County,18.2360166718556
+2635,Texas,Houston County,7.19978820283774
+2636,Texas,Howard County,15.7164101615326
+2637,Texas,Hudspeth County,0.34618487657503394
+2638,Texas,Hunt County,42.3401085017567
+2639,Texas,Hutchinson County,9.38519121646415
+2640,Texas,Irion County,0.559576954769846
+2641,Texas,Jack County,3.7476848562361003
+2642,Texas,Jackson County,6.89864898212927
+2643,Texas,Jasper County,14.604056425575699
+2644,Texas,Jeff Davis County,0.38089248062882497
+2645,Texas,Jefferson County,112.437564456015
+2646,Texas,Jim Hogg County,1.79496563039944
+2647,Texas,Jim Wells County,18.382884637928502
+2648,Texas,Johnson County,87.08339862102291
+2649,Texas,Jones County,8.270735220518821
+2650,Texas,Karnes County,7.94779638574582
+2651,Texas,Kaufman County,58.809857422536
+2652,Texas,Kendall County,24.4686336080459
+2653,Texas,Kenedy County,0.157516766798116
+2654,Texas,Kent County,0.320430270036095
+2655,Texas,Kerr County,17.974862326683603
+2656,Texas,Kimble County,1.3604787191282999
+2657,Texas,King County,0.0966450266498534
+2658,Texas,Kinney County,1.04328552465351
+2659,Texas,Kleberg County,13.767361542109402
+2660,Texas,Knox County,1.69442363312255
+2661,Texas,Lamar County,21.0811344730545
+2662,Texas,Lamb County,5.03894987810358
+2663,Texas,Lampasas County,11.179413851220698
+2664,Texas,La Salle County,1.92414283791798
+2665,Texas,Lavaca County,7.93976512655366
+2666,Texas,Lee County,10.4050743760357
+2667,Texas,Leon County,6.1515501367571295
+2668,Texas,Liberty County,27.2854742193571
+2669,Texas,Limestone County,10.0274911377255
+2670,Texas,Lipscomb County,1.4368251907933403
+2671,Texas,Live Oak County,4.50201053373317
+2672,Texas,Llano County,8.531804257642321
+2673,Texas,Loving County,0.0588836336073344
+2674,Texas,Lubbock County,129.959318000759
+2675,Texas,Lynn County,2.51436751286519
+2676,Texas,McCulloch County,2.9341711524142795
+2677,Texas,McLennan County,92.4857483664463
+2678,Texas,McMullen County,0.224249738101542
+2679,Texas,Madison County,11.7040506883547
+2680,Texas,Marion County,10.2211376221867
+2681,Texas,Martin County,2.3690516711057996
+2682,Texas,Mason County,1.7296607209889099
+2683,Texas,Matagorda County,12.9807009828232
+2684,Texas,Maverick County,17.4934183947971
+2685,Texas,Medina County,14.371930470246902
+2686,Texas,Menard County,0.908725914753073
+2687,Texas,Midland County,70.41973349897741
+2688,Texas,Milam County,9.36442273639666
+2689,Texas,Mills County,2.52958527493796
+2690,Texas,Mitchell County,3.62671541451339
+2691,Texas,Montague County,8.05007110215243
+2692,Texas,Montgomery County,205.321086912675
+2693,Texas,Moore County,9.35582042731036
+2694,Texas,Morris County,19.036260214522603
+2695,Texas,Motley County,0.4510402973483
+2696,Texas,Nacogdoches County,26.7412054197836
+2697,Texas,Navarro County,18.5790439848761
+2698,Texas,Newton County,5.812971257015341
+2699,Texas,Nolan County,6.33599017652774
+2700,Texas,Nueces County,166.028634375297
+2701,Texas,Ochiltree County,4.35376749677255
+2702,Texas,Oldham County,0.5377814479883489
+2703,Texas,Orange County,97.2215802406318
+2704,Texas,Palo Pinto County,11.4778918276682
+2705,Texas,Panola County,11.154463613916302
+2706,Texas,Parker County,55.470785113502
+2707,Texas,Parmer County,4.31856728852797
+2708,Texas,Pecos County,1.2803248471746398
+2709,Texas,Polk County,17.473216993125902
+2710,Texas,Potter County,51.3869331514923
+2711,Texas,Presidio County,0.7133659514958921
+2712,Texas,Rains County,19.3056959935703
+2713,Texas,Randall County,56.0888712560936
+2714,Texas,Reagan County,1.23256880993844
+2715,Texas,Real County,1.87153518415653
+2716,Texas,Red River County,4.54019766401323
+2717,Texas,Reeves County,2.2159437293144597
+2718,Texas,Refugio County,3.6260760709597997
+2719,Texas,Roberts County,0.369782546269164
+2720,Texas,Robertson County,7.6262485934972695
+2721,Texas,Rockwall County,284.441672044511
+2722,Texas,Runnels County,3.78729532505107
+2723,Texas,Rusk County,22.3942853972123
+2724,Texas,Sabine County,8.21198970142993
+2725,Texas,San Augustine County,6.0586650106577595
+2726,Texas,San Jacinto County,18.8688810214327
+2727,Texas,San Patricio County,37.330923180127705
+2728,Texas,San Saba County,2.02758276802011
+2729,Texas,Schleicher County,0.901740597086667
+2730,Texas,Scurry County,7.351102281540411
+2731,Texas,Shackelford County,1.39823269654078
+2732,Texas,Shelby County,12.3645628729828
+2733,Texas,Sherman County,1.27914941359342
+2734,Texas,Smith County,94.2825266569404
+2735,Texas,Somervell County,18.1037523500272
+2736,Texas,Starr County,20.168438131182803
+2737,Texas,Stephens County,4.03531159953458
+2738,Texas,Sterling County,0.47706197988824606
+2739,Texas,Stonewall County,0.583590685589275
+2740,Texas,Sutton County,1.0263764737678
+2741,Texas,Swisher County,3.24614670241567
+2742,Texas,Tarrant County,903.05200921491
+2743,Texas,Taylor County,57.5010015389649
+2744,Texas,Terrell County,0.141144059835929
+2745,Texas,Terry County,5.479819110054799
+2746,Texas,Throckmorton County,0.6629999444163189
+2747,Texas,Titus County,31.121526803734398
+2748,Texas,Tom Green County,29.7988409008887
+2749,Texas,Travis County,468.362862808123
+2750,Texas,Trinity County,8.1077411854149
+2751,Texas,Tyler County,8.978519267731519
+2752,Texas,Upshur County,27.000945288067197
+2753,Texas,Upton County,1.1303228673647299
+2754,Texas,Uvalde County,6.71956645043787
+2755,Texas,Val Verde County,6.01937638523006
+2756,Texas,Van Zandt County,24.9139047775813
+2757,Texas,Victoria County,40.2557086383184
+2758,Texas,Walker County,35.2213692895532
+2759,Texas,Waller County,37.597342769308895
+2760,Texas,Ward County,5.3534767162250505
+2761,Texas,Washington County,22.236295410587896
+2762,Texas,Webb County,31.248238637591
+2763,Texas,Wharton County,14.770446953028099
+2764,Texas,Wheeler County,2.31444385569764
+2765,Texas,Wichita County,81.09581497300721
+2766,Texas,Wilbarger County,5.13214477687841
+2767,Texas,Willacy County,14.221806933198199
+2768,Texas,Williamson County,181.964521526996
+2769,Texas,Wilson County,23.1536052571556
+2770,Texas,Winkler County,3.58074503547669
+2771,Texas,Wise County,27.595566663329997
+2772,Texas,Wood County,26.218041170457802
+2773,Texas,Yoakum County,4.13807592033117
+2774,Texas,Young County,7.64775470642388
+2775,Texas,Zapata County,5.55672382708122
+2776,Texas,Zavala County,3.6101277704896004
+2777,Utah,Beaver County,0.9631250313367858
+2778,Utah,Box Elder County,3.56165178893216
+2779,Utah,Cache County,40.5537433722118
+2780,Utah,Carbon County,5.31340125095471
+2781,Utah,Daggett County,0.33902325216235496
+2782,Utah,Davis County,439.794275837236
+2783,Utah,Duchesne County,2.4129116796932797
+2784,Utah,Emery County,0.8867166799868609
+2785,Utah,Garfield County,0.3743031919051021
+2786,Utah,Grand County,1.0108951166029598
+2787,Utah,Iron County,5.82033954652595
+2788,Utah,Juab County,1.24629919647103
+2789,Utah,Kane County,0.711250452771152
+2790,Utah,Millard County,0.7443221667972242
+2791,Utah,Morgan County,7.219823533936441
+2792,Utah,Piute County,0.9692794104456541
+2793,Utah,Rich County,0.881900082503967
+2794,Utah,Salt Lake County,583.162253223751
+2795,Utah,San Juan County,0.754500566587932
+2796,Utah,Sanpete County,7.131302245558589
+2797,Utah,Sevier County,4.2679870663435695
+2798,Utah,Summit County,8.3617858054769
+2799,Utah,Tooele County,3.6255064811349498
+2800,Utah,Uintah County,3.12877941698049
+2801,Utah,Utah County,113.77900823168899
+2802,Utah,Wasatch County,10.0125703436495
+2803,Utah,Washington County,25.534603748081604
+2804,Utah,Wayne County,0.42265377142437605
+2805,Utah,Weber County,165.981423370835
+2806,Vermont,Addison County,18.6111273289705
+2807,Vermont,Bennington County,20.5464597878637
+2808,Vermont,Caledonia County,18.099865484595803
+2809,Vermont,Chittenden County,116.60513037878599
+2810,Vermont,Essex County,3.61199584128018
+2811,Vermont,Franklin County,29.850333648062897
+2812,Vermont,Grand Isle County,32.87212693068
+2813,Vermont,Lamoille County,21.2609721715667
+2814,Vermont,Orange County,16.2622665319102
+2815,Vermont,Orleans County,14.980958612074302
+2816,Vermont,Rutland County,24.6128476160329
+2817,Vermont,Washington County,32.8627932121356
+2818,Vermont,Windham County,21.209631738019397
+2819,Vermont,Windsor County,22.071963346146102
+2820,Virginia,Accomack County,28.1359681116964
+2821,Virginia,Albemarle County,56.996009466371795
+2822,Virginia,Alleghany County,13.2162229688555
+2823,Virginia,Amelia County,13.969559970185301
+2824,Virginia,Amherst County,25.971960205143798
+2825,Virginia,Appomattox County,17.9951422866035
+2826,Virginia,Arlington County,3442.63585463294
+2827,Virginia,Augusta County,29.824229308972697
+2828,Virginia,Bath County,3.2051046897652102
+2829,Virginia,Bedford County,39.575229614267705
+2830,Virginia,Bland County,6.9598635099839194
+2831,Virginia,Botetourt County,23.6978316830682
+2832,Virginia,Brunswick County,11.3634817325086
+2833,Virginia,Buchanan County,16.9980204684914
+2834,Virginia,Buckingham County,11.3268219667749
+2835,Virginia,Campbell County,42.33097537703
+2836,Virginia,Caroline County,22.088501396424103
+2837,Virginia,Carroll County,24.185452455390397
+2838,Virginia,Charles City County,14.773151063638698
+2839,Virginia,Charlotte County,9.82526448265532
+2840,Virginia,Chesterfield County,309.422654492403
+2841,Virginia,Clarke County,31.525411724730102
+2842,Virginia,Craig County,6.016918983079081
+2843,Virginia,Culpeper County,51.3700808363156
+2844,Virginia,Cumberland County,12.700416788329198
+2845,Virginia,Dickenson County,17.4794814635643
+2846,Virginia,Dinwiddie County,21.690427449042502
+2847,Virginia,Essex County,16.5734440474237
+2848,Virginia,Fairfax County,1129.20580464924
+2849,Virginia,Fauquier County,41.180904413372296
+2850,Virginia,Floyd County,15.879006921717501
+2851,Virginia,Fluvanna County,35.342825555814294
+2852,Virginia,Franklin County,31.4379030622912
+2853,Virginia,Frederick County,79.5746841393496
+2854,Virginia,Giles County,18.173264227559603
+2855,Virginia,Gloucester County,65.874538036211
+2856,Virginia,Goochland County,30.9315790032854
+2857,Virginia,Grayson County,13.818161230892501
+2858,Virginia,Greene County,48.060603247035296
+2859,Virginia,Greensville County,15.247806902662699
+2860,Virginia,Halifax County,16.4213771827093
+2861,Virginia,Hanover County,86.1919637339166
+2862,Virginia,Henrico County,538.090840570989
+2863,Virginia,Henry County,52.094235685270604
+2864,Virginia,Highland County,2.05902366740942
+2865,Virginia,Isle of Wight County,44.4876726196645
+2866,Virginia,James City County,201.106739859977
+2867,Virginia,King and Queen County,8.63962511377793
+2868,Virginia,King George County,55.66270871841479
+2869,Virginia,King William County,23.252525032244602
+2870,Virginia,Lancaster County,31.2942736018195
+2871,Virginia,Lee County,21.402554595046603
+2872,Virginia,Loudoun County,288.317756013779
+2873,Virginia,Louisa County,27.533572041205602
+2874,Virginia,Lunenburg County,10.9811511911602
+2875,Virginia,Madison County,15.8215863754233
+2876,Virginia,Mathews County,39.532767097606
+2877,Virginia,Mecklenburg County,19.0472088804731
+2878,Virginia,Middlesex County,31.6986180243888
+2879,Virginia,Montgomery County,97.80916473700078
+2880,Virginia,Nelson County,12.148706290197198
+2881,Virginia,New Kent County,38.792986955912795
+2882,Virginia,Northampton County,21.8080862330068
+2883,Virginia,Northumberland County,24.6546611248496
+2884,Virginia,Nottoway County,19.0355583283937
+2885,Virginia,Orange County,40.308989525847394
+2886,Virginia,Page County,29.577194889521
+2887,Virginia,Patrick County,14.277535330738099
+2888,Virginia,Pittsylvania County,24.574993387870002
+2889,Virginia,Powhatan County,42.399881425157
+2890,Virginia,Prince Edward County,25.326679243730503
+2891,Virginia,Prince George County,55.13934016392679
+2892,Virginia,Prince William County,525.262881508984
+2893,Virginia,Pulaski County,41.326592254785794
+2894,Virginia,Rappahannock County,10.627612958523901
+2895,Virginia,Richmond County,17.9018851112506
+2896,Virginia,Roanoke County,144.216652416059
+2897,Virginia,Rockbridge County,14.568572944728198
+2898,Virginia,Rockingham County,36.095425564345
+2899,Virginia,Russell County,22.347978742982303
+2900,Virginia,Scott County,15.859069967557799
+2901,Virginia,Shenandoah County,32.711509711232196
+2902,Virginia,Smyth County,26.569041031229897
+2903,Virginia,Southampton County,11.5596262938748
+2904,Virginia,Spotsylvania County,126.371401782121
+2905,Virginia,Stafford County,206.546638055036
+2906,Virginia,Surry County,9.135254712701428
+2907,Virginia,Sussex County,9.04638098591414
+2908,Virginia,Tazewell County,31.317402256640502
+2909,Virginia,Warren County,70.99727486834601
+2910,Virginia,Washington County,37.4339708593057
+2911,Virginia,Westmoreland County,29.696061717487698
+2912,Virginia,Wise County,37.347959960112
+2913,Virginia,Wythe County,24.189788971841804
+2914,Virginia,York County,249.474194755752
+2915,Virginia,Alexandria city,4046.49321287735
+2916,Virginia,Bristol city,503.976998804554
+2917,Virginia,Buena Vista city,383.75394841073097
+2918,Virginia,Charlottesville city,1772.9239515422898
+2919,Virginia,Chesapeake city,271.255535330367
+2920,Virginia,Colonial Heights city,903.352524889049
+2921,Virginia,Covington city,394.102108735751
+2922,Virginia,Danville city,374.506547567474
+2923,Virginia,Emporia city,300.932757327567
+2924,Virginia,Fairfax city,1476.54520471141
+2925,Virginia,Falls Church city,2654.0182424841
+2926,Virginia,Franklin city,380.780627647604
+2927,Virginia,Fredericksburg city,1051.7908245225099
+2928,Virginia,Galax city,311.174589852389
+2929,Virginia,Hampton city,1018.3402720218302
+2930,Virginia,Harrisonburg city,1188.8869763534199
+2931,Virginia,Hopewell city,835.535743855943
+2932,Virginia,Lexington city,1098.4084355296
+2933,Virginia,Lynchburg city,631.736043934096
+2934,Virginia,Manassas city,1625.07006808854
+2935,Virginia,Manassas Park city,2511.65404110499
+2936,Virginia,Martinsville city,461.683087703788
+2937,Virginia,Newport News city,1006.3036802013401
+2938,Virginia,Norfolk city,1779.83490362982
+2939,Virginia,Norton city,206.02998650271198
+2940,Virginia,Petersburg city,540.8614292693641
+2941,Virginia,Poquoson city,302.203859107385
+2942,Virginia,Portsmouth city,1105.07804527461
+2943,Virginia,Radford city,703.46230740824
+2944,Virginia,Richmond city,1442.1466874817902
+2945,Virginia,Roanoke city,904.6484086379891
+2946,Virginia,Salem city,678.685039823246
+2947,Virginia,Staunton city,473.93272151717497
+2948,Virginia,Suffolk city,86.2446960672682
+2949,Virginia,Virginia Beach city,710.1799673676139
+2950,Virginia,Waynesboro city,565.519157470855
+2951,Virginia,Williamsburg city,638.644008652875
+2952,Virginia,Winchester city,1167.13965733831
+2953,Washington,Adams County,3.9015593516421605
+2954,Washington,Asotin County,13.5585798878058
+2955,Washington,Benton County,44.099605682211106
+2956,Washington,Chelan County,10.013100202028099
+2957,Washington,Clallam County,16.5410432314785
+2958,Washington,Clark County,285.90364911255904
+2959,Washington,Columbia County,1.7785188570349
+2960,Washington,Cowlitz County,35.5812838227925
+2961,Washington,Douglas County,8.78016610668887
+2962,Washington,Ferry County,1.32764128162999
+2963,Washington,Franklin County,28.1927662599176
+2964,Washington,Garfield County,1.2080030869345602
+2965,Washington,Grant County,13.668876451356402
+2966,Washington,Grays Harbor County,14.6143051246117
+2967,Washington,Island County,151.165669967486
+2968,Washington,Jefferson County,6.60503139889385
+2969,Washington,King County,394.85573317160004
+2970,Washington,Kitsap County,256.478251982443
+2971,Washington,Kittitas County,7.53364258474797
+2972,Washington,Klickitat County,4.41380703632912
+2973,Washington,Lewis County,12.364636456351098
+2974,Washington,Lincoln County,1.7436941073872
+2975,Washington,Mason County,25.203103889150896
+2976,Washington,Okanogan County,3.05278394040318
+2977,Washington,Pacific County,8.80882701837827
+2978,Washington,Pend Oreille County,3.6449732512359905
+2979,Washington,Pierce County,199.05529759593497
+2980,Washington,San Juan County,36.571795865662
+2981,Washington,Skagit County,27.650115343594102
+2982,Washington,Skamania County,2.70554193468086
+2983,Washington,Snohomish County,145.560968552441
+2984,Washington,Spokane County,108.98111331137699
+2985,Washington,Stevens County,6.89075874056749
+2986,Washington,Thurston County,146.792699307179
+2987,Washington,Wahkiakum County,6.15163831925205
+2988,Washington,Walla Walla County,18.3123269663365
+2989,Washington,Whatcom County,39.7133103503866
+2990,Washington,Whitman County,8.68901886661116
+2991,Washington,Yakima County,22.4157548100339
+2992,West Virginia,Barbour County,18.9395143289284
+2993,West Virginia,Berkeley County,136.449841542595
+2994,West Virginia,Boone County,17.5654913663909
+2995,West Virginia,Braxton County,10.795187037288198
+2996,West Virginia,Brooke County,98.5655266170357
+2997,West Virginia,Cabell County,130.960575597711
+2998,West Virginia,Calhoun County,10.2260210449384
+2999,West Virginia,Clay County,9.91963513592397
+3000,West Virginia,Doddridge County,10.308206660154099
+3001,West Virginia,Fayette County,25.750927172269602
+3002,West Virginia,Gilmer County,9.35877157783982
+3003,West Virginia,Grant County,9.41530878269474
+3004,West Virginia,Greenbrier County,13.3824076080351
+3005,West Virginia,Hampshire County,14.085841329751801
+3006,West Virginia,Hancock County,138.719341080139
+3007,West Virginia,Hardy County,9.17786017509734
+3008,West Virginia,Harrison County,63.30566415125529
+3009,West Virginia,Jackson County,24.127715506386398
+3010,West Virginia,Jefferson County,103.637327434714
+3011,West Virginia,Kanawha County,79.52584487633891
+3012,West Virginia,Lewis County,16.2412217461254
+3013,West Virginia,Lincoln County,18.6213012425547
+3014,West Virginia,Logan County,28.761640398789503
+3015,West Virginia,McDowell County,13.908764113766802
+3016,West Virginia,Marion County,70.6527975338908
+3017,West Virginia,Marshall County,40.0031100411265
+3018,West Virginia,Mason County,24.145762166159
+3019,West Virginia,Mercer County,55.741569469605
+3020,West Virginia,Mineral County,32.1230331529781
+3021,West Virginia,Mingo County,22.5754165501055
+3022,West Virginia,Monongalia County,112.85488581763398
+3023,West Virginia,Monroe County,10.998616246343
+3024,West Virginia,Morgan County,29.705266216138398
+3025,West Virginia,Nicholas County,15.115878985488902
+3026,West Virginia,Ohio County,155.224963025579
+3027,West Virginia,Pendleton County,3.91399928461346
+3028,West Virginia,Pleasants County,22.2754637556009
+3029,West Virginia,Pocahontas County,3.5029704211904105
+3030,West Virginia,Preston County,20.136042344124302
+3031,West Virginia,Putnam County,63.27692093966579
+3032,West Virginia,Raleigh County,48.6213898321469
+3033,West Virginia,Randolph County,10.793554244039399
+3034,West Virginia,Ritchie County,8.484183821593241
+3035,West Virginia,Roane County,11.342020298862801
+3036,West Virginia,Summers County,13.939292249279301
+3037,West Virginia,Taylor County,37.8814412347522
+3038,West Virginia,Tucker County,6.47459281097388
+3039,West Virginia,Tyler County,13.4208361809426
+3040,West Virginia,Upshur County,26.7880407224947
+3041,West Virginia,Wayne County,31.062483258694602
+3042,West Virginia,Webster County,5.942176682884471
+3043,West Virginia,Wetzel County,16.8365140327007
+3044,West Virginia,Wirt County,9.62635272860413
+3045,West Virginia,Wood County,90.12947947337031
+3046,West Virginia,Wyoming County,16.7831414570854
+3047,Wisconsin,Adams County,12.003656983796999
+3048,Wisconsin,Ashland County,5.80533448934766
+3049,Wisconsin,Barron County,20.2449026844077
+3050,Wisconsin,Bayfield County,3.9167184631478302
+3051,Wisconsin,Brown County,189.21969731759202
+3052,Wisconsin,Buffalo County,7.52276942107937
+3053,Wisconsin,Burnett County,7.170697466743211
+3054,Wisconsin,Calumet County,60.420363613428705
+3055,Wisconsin,Chippewa County,24.366023279514998
+3056,Wisconsin,Clark County,11.008593721715801
+3057,Wisconsin,Columbia County,28.724693201827503
+3058,Wisconsin,Crawford County,11.020514776892199
+3059,Wisconsin,Dane County,170.977165078522
+3060,Wisconsin,Dodge County,38.700694719267794
+3061,Wisconsin,Door County,21.981492501378998
+3062,Wisconsin,Douglas County,12.8480420610215
+3063,Wisconsin,Dunn County,20.208862082048
+3064,Wisconsin,Eau Claire County,62.3352477287183
+3065,Wisconsin,Florence County,3.43053998697445
+3066,Wisconsin,Fond du Lac County,54.8998474127114
+3067,Wisconsin,Forest County,3.43297186091257
+3068,Wisconsin,Grant County,17.448132921023902
+3069,Wisconsin,Green County,24.370239420341395
+3070,Wisconsin,Green Lake County,20.7187595155435
+3071,Wisconsin,Iowa County,11.957193615393601
+3072,Wisconsin,Iron County,2.9103236237551497
+3073,Wisconsin,Jackson County,8.0199323407595
+3074,Wisconsin,Jefferson County,58.7355343096142
+3075,Wisconsin,Juneau County,13.2984500543456
+3076,Wisconsin,Kenosha County,239.067524003644
+3077,Wisconsin,Kewaunee County,22.9550226614442
+3078,Wisconsin,La Crosse County,100.71989375267401
+3079,Wisconsin,Lafayette County,10.198141038122301
+3080,Wisconsin,Langlade County,8.49807713998798
+3081,Wisconsin,Lincoln County,12.236395323749402
+3082,Wisconsin,Manitowoc County,52.0260989544225
+3083,Wisconsin,Marathon County,33.7972058638786
+3084,Wisconsin,Marinette County,11.1839820101159
+3085,Wisconsin,Marquette County,12.884278924899302
+3086,Wisconsin,Menominee County,4.94376284600985
+3087,Wisconsin,Milwaukee County,1525.65896177732
+3088,Wisconsin,Monroe County,19.5008816666088
+3089,Wisconsin,Oconto County,14.537066188563301
+3090,Wisconsin,Oneida County,12.2509386299518
+3091,Wisconsin,Outagamie County,111.882543572435
+3092,Wisconsin,Ozaukee County,146.284038211139
+3093,Wisconsin,Pepin County,12.0853165233182
+3094,Wisconsin,Pierce County,27.991507203260397
+3095,Wisconsin,Polk County,18.310649113301
+3096,Wisconsin,Portage County,34.0356826415509
+3097,Wisconsin,Price County,4.15334090277917
+3098,Wisconsin,Racine County,226.83810870149503
+3099,Wisconsin,Richland County,11.553103185351802
+3100,Wisconsin,Rock County,86.9742373173408
+3101,Wisconsin,Rusk County,5.99427227779121
+3102,Wisconsin,St. Croix County,46.98626536207829
+3103,Wisconsin,Sauk County,29.5289045415877
+3104,Wisconsin,Sawyer County,5.025763378619191
+3105,Wisconsin,Shawano County,17.7264037672883
+3106,Wisconsin,Sheboygan County,86.9569442312475
+3107,Wisconsin,Taylor County,8.0607644691931
+3108,Wisconsin,Trempealeau County,15.506148068666198
+3109,Wisconsin,Vernon County,14.884868018880901
+3110,Wisconsin,Vilas County,9.72021347526262
+3111,Wisconsin,Walworth County,71.6079988744977
+3112,Wisconsin,Washburn County,7.599367804480001
+3113,Wisconsin,Washington County,120.62001144275801
+3114,Wisconsin,Waukesha County,280.157066356862
+3115,Wisconsin,Waupaca County,26.5652730584356
+3116,Wisconsin,Waushara County,14.870429149196301
+3117,Wisconsin,Winnebago County,150.931815167318
+3118,Wisconsin,Wood County,35.675614590447296
+3119,Wyoming,Albany County,3.4417734635240698
+3120,Wyoming,Big Horn County,1.4647958357434498
+3121,Wyoming,Campbell County,3.83588328202555
+3122,Wyoming,Carbon County,0.7566285676159049
+3123,Wyoming,Converse County,1.27011015707496
+3124,Wyoming,Crook County,1.00229012513225
+3125,Wyoming,Fremont County,1.68489993148913
+3126,Wyoming,Goshen County,2.3312411536333104
+3127,Wyoming,Hot Springs County,0.901482712304166
+3128,Wyoming,Johnson County,0.7914154186749871
+3129,Wyoming,Laramie County,14.0435616772756
+3130,Wyoming,Lincoln County,1.8011243179618401
+3131,Wyoming,Natrona County,5.82783477273144
+3132,Wyoming,Niobrara County,0.35992692027931505
+3133,Wyoming,Park County,1.62035138675428
+3134,Wyoming,Platte County,1.60881432614948
+3135,Wyoming,Sheridan County,4.59216805197077
+3136,Wyoming,Sublette County,0.786271793661482
+3137,Wyoming,Sweetwater County,1.6336148067333303
+3138,Wyoming,Teton County,2.22753868603816
+3139,Wyoming,Uinta County,3.822404960518
+3140,Wyoming,Washakie County,1.4020016308123002
+3141,Wyoming,Weston County,1.1431692044045099
+3142,Puerto Rico,Adjuntas Municipio,105.259360575524
+3143,Puerto Rico,Aguada Municipio,483.499036092378
+3144,Puerto Rico,Aguadilla Municipio,572.480222740317
+3145,Puerto Rico,Aguas Buenas Municipio,337.207028213262
+3146,Puerto Rico,Aibonito Municipio,289.25524955056704
+3147,Puerto Rico,Añasco Municipio,268.97977743437
+3148,Puerto Rico,Arecibo Municipio,267.466156718545
+3149,Puerto Rico,Arroyo Municipio,465.943866666217
+3150,Puerto Rico,Barceloneta Municipio,501.81841281810097
+3151,Puerto Rico,Barranquitas Municipio,324.13132523034
+3152,Puerto Rico,Bayamón Municipio,1593.4590168707598
+3153,Puerto Rico,Cabo Rojo Municipio,268.867552091051
+3154,Puerto Rico,Caguas Municipio,865.4821147092861
+3155,Puerto Rico,Camuy Municipio,268.386322612537
+3156,Puerto Rico,Canóvanas Municipio,541.632838108379
+3157,Puerto Rico,Carolina Municipio,1339.9222951784
+3158,Puerto Rico,Cataño Municipio,1970.65694344995
+3159,Puerto Rico,Cayey Municipio,331.053773228686
+3160,Puerto Rico,Ceiba Municipio,157.616226708223
+3161,Puerto Rico,Ciales Municipio,98.148569309337
+3162,Puerto Rico,Cidra Municipio,432.426246848663
+3163,Puerto Rico,Coamo Municipio,194.330852579858
+3164,Puerto Rico,Comerío Municipio,265.630056439895
+3165,Puerto Rico,Corozal Municipio,309.8907307052
+3166,Puerto Rico,Culebra Municipio,43.6326614711479
+3167,Puerto Rico,Dorado Municipio,621.4789284352349
+3168,Puerto Rico,Fajardo Municipio,413.18989532819603
+3169,Puerto Rico,Florida Municipio,302.349499317099
+3170,Puerto Rico,Guánica Municipio,174.89595941355
+3171,Puerto Rico,Guayama Municipio,247.76066384032
+3172,Puerto Rico,Guayanilla Municipio,173.62014209211998
+3173,Puerto Rico,Guaynabo Municipio,1241.00285874498
+3174,Puerto Rico,Gurabo Municipio,649.24469059643
+3175,Puerto Rico,Hatillo Municipio,373.24299257304705
+3176,Puerto Rico,Hormigueros Municipio,550.623070160575
+3177,Puerto Rico,Humacao Municipio,461.192142440383
+3178,Puerto Rico,Isabela Municipio,296.113578390751
+3179,Puerto Rico,Jayuya Municipio,129.234695903937
+3180,Puerto Rico,Juana Díaz Municipio,300.799846392228
+3181,Puerto Rico,Juncos Municipio,570.334072074933
+3182,Puerto Rico,Lajas Municipio,150.140551583609
+3183,Puerto Rico,Lares Municipio,166.196154552358
+3184,Puerto Rico,Las Marías Municipio,71.61547028077909
+3185,Puerto Rico,Las Piedras Municipio,430.4125829628
+3186,Puerto Rico,Loíza Municipio,527.698908319518
+3187,Puerto Rico,Luquillo Municipio,277.436249122943
+3188,Puerto Rico,Manatí Municipio,339.500297678603
+3189,Puerto Rico,Maricao Municipio,65.3862219801932
+3190,Puerto Rico,Maunabo Municipio,201.088284762173
+3191,Puerto Rico,Mayagüez Municipio,384.01995418483597
+3192,Puerto Rico,Moca Municipio,282.796361164301
+3193,Puerto Rico,Morovis Municipio,311.096418901777
+3194,Puerto Rico,Naguabo Municipio,196.308334548894
+3195,Puerto Rico,Naranjito Municipio,402.385920097178
+3196,Puerto Rico,Orocovis Municipio,129.906021637766
+3197,Puerto Rico,Patillas Municipio,143.61743536544301
+3198,Puerto Rico,Peñuelas Municipio,181.58759112923198
+3199,Puerto Rico,Ponce Municipio,483.47809369175695
+3200,Puerto Rico,Quebradillas Municipio,409.13953305801806
+3201,Puerto Rico,Rincón Municipio,385.59174781235
+3202,Puerto Rico,Río Grande Municipio,321.956956157411
+3203,Puerto Rico,Sabana Grande Municipio,245.124287178913
+3204,Puerto Rico,Salinas Municipio,159.31022816286998
+3205,Puerto Rico,San Germán Municipio,227.52485673989602
+3206,Puerto Rico,San Juan Municipio,2778.4107344827503
+3207,Puerto Rico,San Lorenzo Municipio,275.343932001499
+3208,Puerto Rico,San Sebastián Municipio,208.141775536848
+3209,Puerto Rico,Santa Isabel Municipio,250.322997324416
+3210,Puerto Rico,Toa Alta Municipio,1049.05390643637
+3211,Puerto Rico,Toa Baja Municipio,1324.31493785922
+3212,Puerto Rico,Trujillo Alto Municipio,1260.1761126794502
+3213,Puerto Rico,Utuado Municipio,99.9913669789444
+3214,Puerto Rico,Vega Alta Municipio,525.284759577859
+3215,Puerto Rico,Vega Baja Municipio,449.335379588124
+3216,Puerto Rico,Vieques Municipio,66.6786299476298
+3217,Puerto Rico,Villalba Municipio,249.11545486691102
+3218,Puerto Rico,Yabucoa Municipio,238.79554739762298
+3219,Puerto Rico,Yauco Municipio,207.781273257002
