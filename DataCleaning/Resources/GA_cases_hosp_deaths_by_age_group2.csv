@@ -1,0 +1,13 @@
+age group,county name,cases,deaths,hospitalization
+01-04 years,Georgia,9495,1,173
+05-09 years,Georgia,15549,2,133
+10-17 years,Georgia,54451,6,538
+18-29 years,Georgia,171016,88,3157
+30-39 years,Georgia,122275,198,4110
+40-49 years,Georgia,118936,448,5977
+50-59 years,Georgia,113066,1185,8812
+60-69 years,Georgia,76754,2542,10451
+70-79 years,Georgia,45333,3661,9899
+80 & Older years,Georgia,26605,4911,7771
+<1 years,Georgia,2633,0,131
+Unknown years,Georgia,6964,6,95

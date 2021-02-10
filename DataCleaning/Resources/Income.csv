@@ -1,0 +1,56 @@
+Table with row headers in column A and column headers in rows 4 through 6,,,,,,,,
+"Table A-1.
+Income Summary Measures by Selected Characteristics: 2018 and 2019",,,,,,,,
+"(Income in 2019 dollars, adjusted using the CPI-U-RS. Households as of March of the following year. For information on confidentiality protection, sampling error, nonsampling error, and definitions, see <https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar20.pdf>)",,,,,,,,
+Characteristic,2018,,,2019,,,"Percent change in
+real median income
+(2019 less 2018)*",
+,Number (thousands),"Median income
+(dollars)",,Number (thousands),"Median income
+(dollars)",,,
+,,Estimate,Margin of error1 (±),,Estimate,Margin of error1 (±),Estimate,Margin of error1 (±)
+HOUSEHOLDS,,,,,,,,
+All households,"128,579","64,324",704,"128,451","68,703",904,*6.8,1.55
+Type of Household,,,,,,,,
+Family households,"83,482","82,124",676,"83,677","88,149","1,113",*7.3,1.47
+...Married-couple,"61,959","95,351","1,145","62,342","102,308","1,022",*7.3,1.53
+"...Female householder, no spouse present","15,043","45,946","1,136","14,832","48,098",985,*4.7,2.92
+"...Male householder, no spouse present","6,480","62,632","1,269","6,503","69,244","2,988",*10.6,5.05
+Nonfamily households,"45,096","38,813",840,"44,774","41,232",466,*6.2,2.28
+...Female householder,"23,515","32,587",679,"23,470","34,612",851,*6.2,3.05
+...Male householder,"21,582","46,583",884,"21,304","48,496","1,252",*4.1,3.13
+Race2 and Hispanic Origin of Householder,,,,,,,,
+White,"100,528","68,156",657,"100,568","72,204",800,*5.9,1.25
+"...White, not Hispanic","84,727","71,922",664,"84,868","76,057",876,*5.7,1.25
+Black,"17,167","42,110",922,"17,054","45,438","1,212",*7.9,3.51
+Asian,"6,981","88,774","2,856","6,853","98,174","3,068",*10.6,5.24
+Hispanic (any race),"17,758","52,382",748,"17,667","56,113","1,173",*7.1,2.30
+Age of Householder,,,,,,,,
+Under 65 years,"94,423","72,958",584,"93,524","77,873","1,151",*6.7,1.58
+...15 to 24 years,"6,199","44,320","2,738","5,406","47,934","2,132",*8.2,8.15
+...25 to 34 years,"20,611","67,084","1,095","20,424","70,283","1,406",*4.8,2.42
+...35 to 44 years,"21,370","82,206","1,090","21,432","88,858","2,531",*8.1,3.01
+...45 to 54 years,"22,071","85,994","1,878","21,659","92,221","1,983",*7.2,3.17
+...55 to 64 years,"24,172","70,200","1,470","24,603","75,686","1,482",*7.8,2.71
+65 years and older,"34,156","44,487",831,"34,927","47,357",911,*6.5,2.57
+Nativity of Householder,,,,,,,,
+Native-born,"108,560","65,407",725,"108,851","69,474",960,*6.2,1.57
+Foreign-born,"20,019","59,841","1,616","19,600","64,900","1,930",*8.5,4.19
+...Naturalized citizen,"11,043","66,707","2,292","11,208","71,538","2,040",*7.2,4.69
+...Not a citizen,"8,976","52,885","1,072","8,392","57,668","2,598",*9.0,4.94
+Region,,,,,,,,
+Northeast,"22,054","71,383","1,920","22,031","76,221","1,952",*6.8,3.00
+Midwest,"27,686","65,230","1,471","27,757","68,354","1,824",*4.8,3.10
+South,"49,743","58,337",836,"49,486","61,884",766,*6.1,1.82
+West,"29,096","70,779","1,624","29,177","75,769","1,244",*7.0,2.58
+Residence3,,,,,,,,
+Inside metropolitan statistical areas,"110,789","67,363",620,"110,679","71,961",699,*6.8,1.29
+...Inside principal cities,"42,983","60,434","1,245","42,992","63,745","1,586",*5.5,3.01
+...Outside principal cities,"67,806","72,213",771,"67,687","77,170","1,021",*6.9,1.57
+Outside metropolitan statistical areas,"17,790","50,771","1,659","17,772","52,100","1,150",2.6,2.80
+*An asterisk preceding an estimate indicates change is statistically different from zero at the 90 percent confidence level.,,,,,,,,
+"1 A margin of error (MOE) is a measure of an estimate's variability. The larger the MOE in relation to the size of the estimate, the less reliable the estimate. This number, when added to and subtracted from the estimate, forms the 90 percent confidence interval. MOEs shown in this table are based on standard errors calculated using replicate weights. For more information, see ""Standard Errors and Their Use"" at <https://www2.census.gov/library/publications/2020/demo/p60-270sa.pdf>.",,,,,,,,
+"2 Federal surveys now give respondents the option of reporting more than one race. Therefore, two basic ways of defining a race group are possible. A group such as Asian may be defined as those who reported Asian and no other race (the race-alone or single-race concept) or as those who reported Asian regardless of whether they also reported another race (the race-alone-or-in-combination concept). This table shows data using the first approach (race alone). The use of the single-race population does not imply that it is the preferred method of presenting or analyzing data. The Census Bureau uses a variety of approaches. Data for American Indians and Alaska Natives, Native Hawaiians and Other Pacific Islanders, and those reporting two or more races are not shown separately.",,,,,,,,
+"3 For the definition of metropolitan statistical areas and principal cities, see <www.census.gov/programs-surveys/metro-micro/about/glossary.html>.",,,,,,,,
+Note: Inflation-adjusted estimates may differ slightly from other published data due to rounding.,,,,,,,,
+"Source: U.S. Census Bureau, Current Population Survey, 2019 and 2020 Annual Social and Economic Supplements (CPS ASEC).",,,,,,,,
