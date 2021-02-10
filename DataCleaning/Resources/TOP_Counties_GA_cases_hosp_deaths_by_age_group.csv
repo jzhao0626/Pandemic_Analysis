@@ -1,0 +1,73 @@
+﻿age group,county name,cases,deaths,hospitalization
+<1 years,Clayton,64,0,2
+01-04 years,Clayton,313,0,7
+05-09 years,Clayton,442,1,8
+10-17 years,Clayton,1161,0,22
+18-29 years,Clayton,3884,5,90
+30-39 years,Clayton,3367,6,132
+40-49 years,Clayton,3060,23,165
+50-59 years,Clayton,2876,39,231
+60-69 years,Clayton,1822,78,216
+70-79 years,Clayton,790,74,149
+80 & Older years,Clayton,416,82,100
+Unknown years,Clayton,58,0,2
+<1 years,Cobb,163,0,9
+01-04 years,Cobb,598,1,13
+05-09 years,Cobb,1079,0,8
+10-17 years,Cobb,3533,0,30
+18-29 years,Cobb,13061,4,215
+30-39 years,Cobb,8687,12,221
+40-49 years,Cobb,8213,27,358
+50-59 years,Cobb,7362,48,471
+60-69 years,Cobb,4489,108,455
+70-79 years,Cobb,2534,220,435
+80 & Older years,Cobb,1581,303,390
+Unknown years,Cobb,368,0,3
+<1 years,DeKalb,154,0,7
+01-04 years,DeKalb,647,0,18
+05-09 years,DeKalb,952,0,14
+10-17 years,DeKalb,2746,0,48
+18-29 years,DeKalb,11025,9,309
+30-39 years,DeKalb,9534,14,447
+40-49 years,DeKalb,7600,27,512
+50-59 years,DeKalb,6870,72,704
+60-69 years,DeKalb,4349,126,746
+70-79 years,DeKalb,2237,171,564
+80 & Older years,DeKalb,1390,211,416
+Unknown years,DeKalb,251,0,7
+<1 years,Forsyth,42,0,3
+01-04 years,Forsyth,164,0,1
+05-09 years,Forsyth,395,0,2
+10-17 years,Forsyth,1529,0,5
+18-29 years,Forsyth,2627,0,41
+30-39 years,Forsyth,1860,0,56
+40-49 years,Forsyth,2404,4,110
+50-59 years,Forsyth,2251,9,146
+60-69 years,Forsyth,1174,11,132
+70-79 years,Forsyth,735,37,197
+80 & Older years,Forsyth,440,54,132
+Unknown years,Forsyth,1029,0,2
+<1 years,Fulton,183,0,7
+01-04 years,Fulton,798,0,17
+05-09 years,Fulton,1337,0,11
+10-17 years,Fulton,4289,1,40
+18-29 years,Fulton,18348,5,292
+30-39 years,Fulton,13337,18,414
+40-49 years,Fulton,10577,30,490
+50-59 years,Fulton,9491,78,687
+60-69 years,Fulton,5621,167,670
+70-79 years,Fulton,3046,233,594
+80 & Older years,Fulton,2175,395,604
+Unknown years,Fulton,289,0,4
+<1 years,Gwinnett,260,0,8
+01-04 years,Gwinnett,1140,0,21
+05-09 years,Gwinnett,1814,0,19
+10-17 years,Gwinnett,6038,1,74
+18-29 years,Gwinnett,17124,6,520
+30-39 years,Gwinnett,12667,15,532
+40-49 years,Gwinnett,13617,42,712
+50-59 years,Gwinnett,11534,76,776
+60-69 years,Gwinnett,6353,149,785
+70-79 years,Gwinnett,2901,184,614
+80 & Older years,Gwinnett,1591,281,544
+Unknown years,Gwinnett,229,0,1
