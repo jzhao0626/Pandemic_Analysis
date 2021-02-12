@@ -13,10 +13,10 @@ The world is sharing concern for the survival of the human race from this virus.
 
 ## Data & Research
 * The COVID Tracking Project collects and publishes the most complete data about COVID-19 in the U.S. (API) https://covidtracking.com/data/api
-COVID Data Tracker - Vaccinations in the United States (csv) https://covid.cdc.gov/covid-data-tracker/#vaccinations
-Census American Community Survey (API)
-https://www.census.gov/data/developers/data-sets/acs-5year.html
-Georgia Department of Public Health Daily Status Report https://dph.georgia.gov/covid-19-daily-status-report
+* COVID Data Tracker - Vaccinations in the United States (csv) https://covid.cdc.gov/covid-data-tracker/#vaccinations
+* Census American Community Survey (API)
+* https://www.census.gov/data/developers/data-sets/acs-5year.html
+* Georgia Department of Public Health Daily Status Report https://dph.georgia.gov/covid-19-daily-status-report
 
 ## Conclusions
 1. Areas of high density have more cases
