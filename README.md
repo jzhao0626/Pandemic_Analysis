@@ -7,7 +7,7 @@ The world is sharing concern for the survival of the human race from this virus.
 1. Are there more cases in areas of high density?
 2. How does Georgia compare with other states in terms of cases and deaths?
 3. How do hospitalizations for COVID 19 correlate with deaths in Georgia?
-4. What age groups in Georgia bear the greatest burden of cases?
+4. What age groups in Georgia have the most cases?
 5. Are states with higher cases receiving more vaccines?
 6. Where is the U.S. in terms of reaching immunity?
 
