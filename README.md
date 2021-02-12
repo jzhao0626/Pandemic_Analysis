@@ -12,4 +12,9 @@ The world is sharing concern for the survival of the human race from this virus.
 6. Where is the U.S. in terms of reaching immunity?
 
 ## Data & Research
+The COVID Tracking Project collects and publishes the most complete data about COVID-19 in the U.S. (API) https://covidtracking.com/data/api
+COVID Data Tracker - Vaccinations in the United States (csv) https://covid.cdc.gov/covid-data-tracker/#vaccinations
+Census American Community Survey (API)
+https://www.census.gov/data/developers/data-sets/acs-5year.html
+Georgia Department of Public Health Daily Status Report https://dph.georgia.gov/covid-19-daily-status-report
 
