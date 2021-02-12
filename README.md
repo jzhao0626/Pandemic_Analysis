@@ -19,9 +19,9 @@ https://www.census.gov/data/developers/data-sets/acs-5year.html
 Georgia Department of Public Health Daily Status Report https://dph.georgia.gov/covid-19-daily-status-report
 
 ## Conclusions
-Areas of high density have more cases
-In the U.S., Georgia ranks 6th in terms of cases and 9th in terms of deaths
-COVID-related Hospitalizations do not correlate with deaths
-As age increases so does the number of cases
-States with a higher number of cases are receiving more vaccines
-For most states, approximately 10% of their population has either been naturally infected or fully vaccinated
+1. Areas of high density have more cases
+2. In the U.S., Georgia ranks 6th in terms of cases and 9th in terms of deaths
+3. COVID-related Hospitalizations do not correlate with deaths
+4. As age increases so does the number of cases
+5. States with a higher number of cases are receiving more vaccines
+6. For most states, approximately 10% of their population has either been naturally infected or fully vaccinated
