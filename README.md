@@ -22,6 +22,6 @@ The world is sharing concern for the survival of the human race from this virus.
 1. Areas of high density have more cases
 2. In the U.S., Georgia ranks 6th in terms of cases and 9th in terms of deaths
 3. COVID-related Hospitalizations do not correlate with deaths
-4. As age increases so does the number of cases
+4. The 18-29 year old age group has the greatest number of confirmed cases in Georgia
 5. States with a higher number of cases are receiving more vaccines
 6. For most states, approximately 10% of their population has either been naturally infected or fully vaccinated
