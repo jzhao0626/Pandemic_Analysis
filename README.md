@@ -30,3 +30,6 @@ Side by side bar chart of number of vaccines distributed and number of confirmed
 
 ## DosesCasesLR.png
 Linear regression analysis graphic for number of vaccines distributed and number of confirmed cases for each state.
+
+## ImmunityBar.png
+Stacked bar showing potential progress towards immunity for each state. Data shows the percentage of the population fully vaccinated and the perecentage that has experienced natural infection.
