@@ -4,3 +4,6 @@ Scratch notebook where I access the Census API for population estimates for 2019
 
 ## CasesVaccinesDistributed_Amy_scratch.ipynb
 Scratch notebook where I cleaned and visualized case and vaccine data.
+
+## MergeCasesVaccinations_AmyScratch.ipynb
+Scratch notebook where I accessed the COVID Data Tracker Project API for case info and then merged with population data I had already accessed via the Census ACS API.
