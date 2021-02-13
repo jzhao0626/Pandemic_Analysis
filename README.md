@@ -27,3 +27,6 @@ Cleaned up output of the population data I got from the ACS API for population b
 
 ## DosesCasesBar.png
 Side by side bar chart of number of vaccines distributed and number of confirmed cases for each state.
+
+## DosesCasesLR.png
+Linear regression analysis graphic for number of vaccines distributed and number of confirmed cases for each state.
