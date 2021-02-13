@@ -15,3 +15,6 @@ Scratch notebook where I accessed the COVID Data Tracker Project API for case in
 
 ## covid19_vaccinations_in_the_united_states_07Feb2021.csv
 Download of COVID Vaccine Tracker vaccine data.
+
+## Merge_case_vax_pop_09FEB21.csv
+Final merged dataset: cases, vaccines, population, as well as fields that were calculated based on the data that was merged.
