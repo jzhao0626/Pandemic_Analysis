@@ -14,4 +14,4 @@ Scratch notebook where I cleaned and visualized case and vaccine data.
 Scratch notebook where I accessed the COVID Data Tracker Project API for case info and then merged with population data I had already accessed via the Census ACS API.
 
 ## covid19_vaccinations_in_the_united_states_07Feb2021.csv
-Output of COVID Tracker Project API case data.
+Download of COVID Vaccine Tracker vaccine data.
