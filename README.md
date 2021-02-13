@@ -21,3 +21,6 @@ Final merged dataset: cases, vaccines, population, as well as fields that were c
 
 ## Merge1_cases_vax_06FEB21.csv
 output of case and vaccine data that was merged.
+
+## CensusST_19.csv
+Cleaned up output of the population data I got from the ACS API for population by state (2019).
