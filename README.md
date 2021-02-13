@@ -24,3 +24,6 @@ output of case and vaccine data that was merged.
 
 ## CensusST_19.csv
 Cleaned up output of the population data I got from the ACS API for population by state (2019).
+
+## DosesCasesBar.png
+Side by side bar chart of number of vaccines distributed and number of confirmed cases for each state.
